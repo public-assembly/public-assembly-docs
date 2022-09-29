@@ -1,4 +1,4 @@
-# Welcome
+# Welcome to the Public Assembly Docs!
 
 "What's Public Assembly?" - 
 
