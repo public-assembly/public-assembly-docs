@@ -18,31 +18,31 @@ To complete this tutorial, you need a [GitHub account](http://github.com/) and
 
 Go to [https://github.com](https://github.com), then click “Sign up”
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d60b761-8aea-48f6-bdb7-a8c16e7fb13d/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/1.png)
 
 Create your username, email address, and password as requested. Then, type “n” for the ‘Email preferences’ prompt. Then click “Continue” 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8525edb5-85a4-4929-a2bf-1f025cf8dadc/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/2.png)
 
 Click the ‘Start puzzle’ button to solve the puzzle.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92fb92c0-eb8b-49fb-9b86-608af321fadb/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/3.png)
 
 Follow the instructions until completion. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8145bb52-e79d-43c2-b9d4-cc76480bc707/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/4.png)
 
 Next, click the ‘Create account’ button.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8dd085ab-ec22-4eaa-9ed8-ac451c8a2529/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/5.png)
 
 Next, confirm the launch code sent to your email. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1d754aac-1961-4e8a-96b3-cbab7d61eb88/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/6.png)
 
 Lastly, after your verify the code in your email you should be forwarded to this screen displayed below. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/88db0461-52ae-4675-99d3-4dad964bb3fa/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/7.png)
 
 Congratulations, you have successfully set up your GitHub account! 
 
