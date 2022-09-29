@@ -33,7 +33,7 @@
 - [Figma](https://www.figma.com/file/IMYiNZVVJCvO9Yjn0IBe1f/~neosound~-%5Bcommunity%5D?node-id=1730%3A10991)
 
 ---
-### Contribution Guidelines
+## Contribution Guidelines
 Thanks for giving a little extra love to our docs! Below are some basic guidelines to follow to get your PR merged :)
 
 ### Creating a Pull Request
