@@ -1,5 +1,40 @@
-# Contribution Guidelines
-Thanks for giving a little extra love to our docs site! Below are some basic guidelines to follow to get your PR merged :)
+# Welcome
+
+"What's Public Assembly?" - 
+
+## Neosund Quick Start
+
+- [No-code Guide] - 
+
+## Guides
+
+- [Getting Started with Public Assembly]
+- [Using the Assemble Package Template]
+
+- [Wallet Setup]
+- [Getting Started with GitHub]
+- [Vercel Setup]
+- [Visual Studio Code Setup]
+- [Exploring Git]
+- [Installing Node JS]
+
+
+## Documentation
+
+- [Overview]
+- [Curation Protocol]
+- [OS Modular Package Library]
+- [OS Modular Audio Player Library]
+- [Glossary]
+
+## Communcation
+
+- [Twitter](https://twitter.com/pblcasmbly)
+- [Notion](https://www.notion.so/ourzora/Neosound-working-product-title-dd4ef7e0ce8c478386ef867a5d0f7ffe)
+- [Figma](https://www.figma.com/file/IMYiNZVVJCvO9Yjn0IBe1f/~neosound~-%5Bcommunity%5D?node-id=1730%3A10991)
+
+### Contribution Guidelines
+Thanks for giving a little extra love to our docs! Below are some basic guidelines to follow to get your PR merged :)
 
 ### Creating a Pull Request
 1. Fork the repository.
@@ -18,8 +53,7 @@ git fetch upstream
 git pull --rebase upstream main
 git checkout -b "<your-name>/my-contribution"
 ```
-
-# Website
+### Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
