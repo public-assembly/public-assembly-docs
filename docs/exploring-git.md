@@ -1,12 +1,12 @@
 # Exploring Git
 
-## Introduction
+## **Introduction**
 
 Git enables multiple developers to work together on projects. Git is the seed that connects GitHub and your local computer across the web. 
 
 This guide walks you through the Git Source Control features built into Visual Studio Code + GitHub.
 
-## Prerequisites
+## **Prerequisites**
 
 In order to begin this guide, you must have completed the following:
 
@@ -14,7 +14,7 @@ In order to begin this guide, you must have completed the following:
 - [Vercel Setup](https://www.notion.so/Vercel-Setup-5a93184617154e2eaf05ed3e6c819bd1)
 - [Visual Studio Code Setup](https://www.notion.so/Visual-Studio-Code-Setup-eff31c44564645f08a8faf1c752c841a)
 
-## What you’ll do
+## **What you’ll do**
 
 - Install Git
 - Create a Repository
@@ -26,15 +26,15 @@ In order to begin this guide, you must have completed the following:
 
 [Downloads](https://git-scm.com/downloads)
 
-### Installing Git
+## **Installing Git**
 
-### Mac OS X
+### **Mac OS X**
 
 There are several options for installing Git on macOS. 
 
  [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
 
-### Windows
+### **Windows**
 
 Click here to download the latest (**2.37.3**) **64-bit** version [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
@@ -74,9 +74,9 @@ $ git config --global user.email "[johnny.a@gmail.com]"
 
 **Congrats, you are finished installing Git to your computer!** 
 
-### Source Control on GitHub
+### **Source Control on GitHub**
 
-### Create a Repository
+### **Create a Repository**
 
 A **repository** is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets -- anything your project needs. 
 
@@ -96,7 +96,7 @@ Let’s start by creating a simple  `hello-world` repository.
     ![https://docs.github.com/assets/cb-106613/images/help/repository/hello-world-repo.png](https://docs.github.com/assets/cb-106613/images/help/repository/hello-world-repo.png)
     
 
-### Create a Branch
+### **Create a Branch**
 
 Branching lets you have different versions of a repository at one time.
 
@@ -145,7 +145,7 @@ You can make and save changes to the files in your repository. On GitHub, saved 
 
 These changes will be made only to the README file on your `readme-edits` branch, so now this branch contains content that's different from `main`.
 
-### Clone a Repository
+### **Clone a Repository**
 
 1. On GitHub.com, navigate to the main page of the repository.
 2. Above the list of files, click  **Code**.
@@ -197,7 +197,7 @@ Type `code .` and this will open VSCode straight to the repository you made (hel
 $ code .
 ```
 
-### Source Control on Visual Studio Code [WIP]
+### **Source Control on Visual Studio Code [WIP]**
 
 Your VS Code editor should still be open at this point in the tutorial.
 
@@ -235,8 +235,6 @@ Your VS Code editor should still be open at this point in the tutorial.
 
 ## Further resources
 
-Git command cheat-sheet 
-
-[](https://education.github.com/git-cheat-sheet-education.pdf)
+[Git command cheat-sheet ](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ---

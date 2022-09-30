@@ -160,6 +160,8 @@ This guide will walk you through creating your first **Web3 wallet**.
     - [Crypto.com](https://crypto.com/)
         - [https://www.youtube.com/watch?v=AaIm034U1yo](https://www.youtube.com/watch?v=AaIm034U1yo)
 
+## **Gas Fees**
+
 ---
 
 ## **Further Resources**
