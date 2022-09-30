@@ -1,10 +1,18 @@
 # Welcome to the Public Assembly Docs!
 
-"What's Public Assembly?" - The core focus of Public Assembly (from a public perspective) will be to create as many high-impact, need-filling prototypes as possible. Prototypes can range from small components of larger ideas, fully speccd applications, to subDAO spinoffs around prototypes that are ready to be the focus of a sustained development cycle. [Full scope](https://ourzora.notion.site/ourzora/Public-Assembly-1243e6a5700f4d0587e63b644bff4197)
+"What's Public Assembly?" 
+
+The core focus of Public Assembly (from a public perspective) will be to create as many high-impact, need-filling prototypes as possible. Prototypes can range from small components of larger ideas, fully speccd applications, to subDAO spinoffs around prototypes that are ready to be the focus of a sustained development cycle. [Full scope](https://ourzora.notion.site/ourzora/Public-Assembly-1243e6a5700f4d0587e63b644bff4197)
+
+## Features
+
+- Curation protocol
+- Open-source modular package library
+- Open-source UI react hooks and audio component library from which all products evolve
 
 ## Neosound Quick Start
 
-- [No-code Guide](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/neosound-quick-start.md)
+- [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/neosound-quick-start.md)
 
 ## Guides
 
@@ -20,11 +28,11 @@
 
 ## Documentation
 
-- [Overview]
+- [Overview](
 - [Curation Protocol]
 - [OS Modular Package Library]
 - [OS Modular Audio Player Library]
-- [Glossary]
+- [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/glossary.md)
 
 ## Communcation
 
