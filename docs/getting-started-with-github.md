@@ -1,4 +1,5 @@
-# **Introduction**
+# Getting Started with GitHub
+## **Introduction**
 
 [https://www.loom.com/share/91ee45633a41416ba917275910ee1653](https://www.loom.com/share/91ee45633a41416ba917275910ee1653)
 
@@ -6,11 +7,11 @@ GitHub is an increasingly popular programming resource used for code sharing. It
 
 This tutorial teaches you how to make a GitHub account and how to navigate to the Public Assembly GitHub page. 
 
-## Prerequisites
+## **Prerequisites**
 
 To complete this tutorial, you need a [GitHub account](http://github.com/) and Internet access. You don't need to know how to code, use the command line, or install Git (the version control software that GitHub is built on).
 
-## What you’ll do
+## **What you’ll do**
 
 - Sign Up
 
@@ -53,4 +54,4 @@ Congratulations, you have successfully set up your GitHub account!
 
 ---
 
-## Further resources
+## **Further resources**

@@ -1,6 +1,8 @@
+# Visual Studio Code Setup
+
 ## ****Introduction****
 
-Visual Studio Code is a lightweight but strong source code editor that runs on your desktop. Additionally, it provides built-in support for JavaScript. 
+Visual Studio Code is a lightweight but strong source code editor that runs on your desktop. Additionally, it provides built-in support for JavaScript.
 
 This guide walks you through installing Visual Studio Code 
 
@@ -17,10 +19,10 @@ In order to begin this guide, you must have completed the following:
 - Add extensions
 
 ---
-
+## **TUTORIAL**
 ### Install Visual Studio Code
 
-/video 
+/video
 
 [Download Visual Studio Code - Mac, Linux, Windows](https://code.visualstudio.com/download)
 

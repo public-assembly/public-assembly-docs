@@ -1,4 +1,6 @@
-# Introduction
+# Exploring Git
+
+## Introduction
 
 Git enables multiple developers to work together on projects. Git is the seed that connects GitHub and your local computer across the web. 
 

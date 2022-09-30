@@ -1,13 +1,10 @@
 # Getting Started with Neosound
 
 > A new way to listen, share, and publish music on the internet. Built upon modular + open-source building blocks.
-> 
 
 ## Introduction
 
 - What is Neosound video
-    
-    
 - Website Overview video
 
 ## Prerequisites
@@ -25,6 +22,7 @@
 - Deploy your own music player
 
 ---
+## **TUTORIAL**
 
 ## Wallet Setup
 

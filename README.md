@@ -25,7 +25,6 @@ The core focus of Public Assembly (from a public perspective) will be to create 
 - [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/exploring-git.md)
 - [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/installing-node.md)
 
-
 ## Documentation
 
 - [Curation Protocol]
@@ -65,11 +64,9 @@ git checkout -b "<your-name>/my-contribution"
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
-
 ```
 $ yarn
 ```
-
 ### Local Development
 
 ```
@@ -85,7 +82,6 @@ $ yarn build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
 ### Deployment
 
 Using SSH:

@@ -1,6 +1,8 @@
+# Vercel Setup
+
 [https://www.loom.com/share/f93ec145c9d84921a6667ddcbd9d14ad](https://www.loom.com/share/f93ec145c9d84921a6667ddcbd9d14ad)
 
-# ****Introduction****
+## ****Introduction****
 
 This guide takes you through the quick way to get started with Vercel. 
 
@@ -15,6 +17,7 @@ In order to begin this guide, you must have completed the following:
 - Sign-in with GitHub
 
 ---
+## **TUTORIAL**
 
 To sign up for Vercel, go to [https://vercel.com/](https://vercel.com//). Then, click the Sign-Up link.
 
@@ -39,7 +42,6 @@ Finally, you will be directed to the [https://vercel.com/dashboard](https://verc
 Congratulations, you have successfully set up your Vercel account! 
 
 ---
-
 ## Further resources
 
 ---

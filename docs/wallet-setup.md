@@ -2,19 +2,19 @@
 
 // video here 
 
-## Introduction
+## **Introduction**
 
 Public blockchains like **Ethereum** are the next evolution of Internet. To access the new world you need the right tools. 
 
 Web3 wallets are more than just wallets that hold digital monetary value. Currency binds communities together and with your Web 3 wallet you can  crowdsource projects, publish art,, writings and other media, or invest in other people’s creations. Your wallet connects you to new applications and allows you to truly own your data and identity. 
 
-This guide will walk you through creating your first W**eb3 wallet**.
+This guide will walk you through creating your first **Web3 wallet**.
 
-## Prerequisites
+## **Prerequisites**
 
 - None!
 
-## What You’ll Do
+## **What You’ll Do**
 
 - Wallet Setup
     - Option 1: **MetaMask Desktop and Mobile**
@@ -36,9 +36,9 @@ This guide will walk you through creating your first W**eb3 wallet**.
 
 ---
 
-## Wallet Setup
+## **TUTORIAL**
 
-### Option 1: MetaMask
+### **Option 1: MetaMask**
 
 - **Desktop**
     
@@ -87,7 +87,7 @@ This guide will walk you through creating your first W**eb3 wallet**.
         
     
 
-### Option 2: Rainbow Wallet
+### **Option 2: Rainbow Wallet**
 
 - What is **Rainbow Wallet**?
     - **Rainbow Wallet** is a mobile only **web3/crypto** wallet application for **Android and iOS** that supports **Ethereum**
@@ -106,9 +106,9 @@ This guide will walk you through creating your first W**eb3 wallet**.
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e312285-93e9-4936-8935-471d6ff6c1bb/Untitled.png)
     
 
-## How to Acquire ETH
+## **How to Acquire ETH**
 
-### Faucet ETH
+### **Faucet ETH**
 
 - What is **Goerli**?
     - **Goerli** is one of **[Ethereum's most popular testnets](https://www.alchemy.com/overviews/what-are-testnets) (faux blockchain)** used by web3 application developers to test apps for free before launching them on **Ethereum Mainnet**.
@@ -150,7 +150,7 @@ This guide will walk you through creating your first W**eb3 wallet**.
     
     ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5555d4e6-9a86-4d96-8c30-fac3f23e1749/Untitled.png)
     
-    ### Buying ETH from a Centralized Exchange
+    ### **Buying ETH from a Centralized Exchange**
     
     A centralized crypto exchange is **one that's created and run by a company.** These exchanges are considered centralized because one company oversees all the transactions and sets the exchange's rules and fees.
     
@@ -162,10 +162,10 @@ This guide will walk you through creating your first W**eb3 wallet**.
 
 ---
 
-## Further Resources
+## **Further Resources**
 
 [What is MetaMask?](https://youtu.be/YVgfHZMFFFQ) | **MetaMask**
 
-[Get Started with Rainbow](https://learn.rainbow.me/get-started-with-rainbow)| **Rainbow**
+[Get Started with Rainbow](https://learn.rainbow.me/get-started-with-rainbow) | **Rainbow**
 
 [Wallet Security and Scam Safety 101](https://youtube.com/playlist?list=PL0zEUTVaoPOzxJvrFFNwpNyCoi_M-k3DE) | **Coinbase**
