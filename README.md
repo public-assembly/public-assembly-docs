@@ -11,7 +11,7 @@
 - [Getting Started with Public Assembly]
 - [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/assemble-package.md)
 - [Wallet Setup]
-- [Getting Started with GitHub]
+- [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/getting-started-with-github.md)
 - [Vercel Setup]
 - [Visual Studio Code Setup]
 - [Exploring Git]
