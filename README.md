@@ -8,7 +8,7 @@ The core focus of Public Assembly (from a public perspective) will be to create 
 
 - Curation protocol
 - Open-source modular package library
-- Open-source UI react hooks and audio component library from which all products evolve
+- Open-source UI react hooks and audio component library
 
 ## Neosound Quick Start
 
