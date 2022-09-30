@@ -1,6 +1,6 @@
 # Welcome to the Public Assembly Docs!
 
-"What's Public Assembly?" 
+"What's Public Assembly?"
 
 The core focus of Public Assembly (from a public perspective) will be to create as many high-impact, need-filling prototypes as possible. Prototypes can range from small components of larger ideas, fully speccd applications, to subDAO spinoffs around prototypes that are ready to be the focus of a sustained development cycle. [Full scope](https://ourzora.notion.site/ourzora/Public-Assembly-1243e6a5700f4d0587e63b644bff4197)
 
@@ -28,7 +28,6 @@ The core focus of Public Assembly (from a public perspective) will be to create 
 
 ## Documentation
 
-- [Overview](
 - [Curation Protocol]
 - [OS Modular Package Library]
 - [OS Modular Audio Player Library]
