@@ -1,12 +1,14 @@
 # Wallet Setup
 
-// here 
+// video here 
 
 ## Introduction
 
-Public blockchains like **Ethereum** are the next evolution of Internet. To access the new world you need the right tools. This guide will walk you through creating your first **web3 wallet**. 
+Public blockchains like **Ethereum** are the next evolution of Internet. To access the new world you need the right tools. 
 
-Web 3 wallets are more than just wallets that hold digital monetary value. Your wallet connects you to new applications and allows you to truly own your data in a **decentralized** way.
+Web3 wallets are more than just wallets that hold digital monetary value. Currency binds communities together and with your Web 3 wallet you can  crowdsource projects, publish art,, writings and other media, or invest in other people’s creations. Your wallet connects you to new applications and allows you to truly own your data and identity. 
+
+This guide will walk you through creating your first W**eb3 wallet**.
 
 ## Prerequisites
 
@@ -160,16 +162,10 @@ Web 3 wallets are more than just wallets that hold digital monetary value. Your 
 
 ---
 
-## Additional Resources
+## Further Resources
 
-What is MetaMask? | **MetaMask**
+[What is MetaMask?](https://youtu.be/YVgfHZMFFFQ) | **MetaMask**
 
-[What is MetaMask?](https://youtu.be/YVgfHZMFFFQ)
+[Get Started with Rainbow](https://learn.rainbow.me/get-started-with-rainbow)| **Rainbow**
 
-Get Stared with Rainbow | **Rainbow**
-
-[Get Started with Rainbow](https://learn.rainbow.me/get-started-with-rainbow)
-
-Wallet Security and Scam Safety 101 | **Coinbase**
-
-[Security 101](https://youtube.com/playlist?list=PL0zEUTVaoPOzxJvrFFNwpNyCoi_M-k3DE)
+[Wallet Security and Scam Safety 101](https://youtube.com/playlist?list=PL0zEUTVaoPOzxJvrFFNwpNyCoi_M-k3DE) | **Coinbase**

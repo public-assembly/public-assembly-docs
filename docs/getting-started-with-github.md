@@ -53,4 +53,4 @@ Congratulations, you have successfully set up your GitHub account!
 
 ---
 
-## Additional resources
+## Further resources
