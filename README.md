@@ -10,7 +10,7 @@
 
 ## Neosound Quick Start
 
-- [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/neosound-quick-start.md)
+- [Get started]
 
 ## Guides
 
