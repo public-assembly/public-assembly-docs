@@ -22,14 +22,3 @@
 - Deploy your own music player
 
 ---
-## **TUTORIAL**
-
-## **Wallet Setup**
-
-## **Create Zora Editions**
-
----
-
-## **Further Resources**
-
----

@@ -94,7 +94,6 @@ Your wallet connects you to new applications and allows you to truly own your da
 
 - What is **Rainbow Wallet**?
     - **Rainbow Wallet** is a mobile only **web3/crypto** wallet application for **Android and iOS** that supports **Ethereum**
-- **Download/Launch** **Rainbow Wallet** from the **Google Play** or the **App Store**
 
 - [Get Started with Rainbow](https://learn.rainbow.me/get-started-with-rainbow)
 
