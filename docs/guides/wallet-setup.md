@@ -49,21 +49,20 @@ Your wallet connects you to new applications and allows you to truly own your da
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/03.png)
     
     
-    **Click** on the “**Get Started**” button
+    Click on the “**Get Started**” button
     
     
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/04.png)
 
-    **Select** “**Create a Wallet**” and **create** a **password**
+    Select “Create a Wallet” and create a password
 
 
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/05.png)
 
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/06.png)
 
-    **Write** **down**, **store**, or **memorize** your *12 Word* **Secret Backup Phrase**
+    Write down your 12 word phrase. 
     
-
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/07.png)
 
     Your *12 Word* **Secret Backup Phrase** backs up your account.
@@ -114,6 +113,7 @@ Your wallet connects you to new applications and allows you to truly own your da
 
 - What is **Goerli**?
     - **Goerli** is one of **[Ethereum's most popular testnets](https://www.alchemy.com/overviews/what-are-testnets) (faux blockchain)** used by web3 application developers to test apps for free before launching them on **Ethereum Mainnet**.
+
 - Where to get testnet ETH
     - Requires Twitter authentication. Claim 0.5 ETH every 24 hours.
         
@@ -146,7 +146,7 @@ After your test networks have been enables click where it says Ethereum mainet a
 
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/20.png)
 
-    - **Click ‘**Send Me ETH’
+    - CLick Send Me ETH’
 
     ![img]()
 
