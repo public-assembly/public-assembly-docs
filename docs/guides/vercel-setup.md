@@ -27,7 +27,7 @@ Next, click “Continue with GitHub”  to authenticate your Git provider.
 
 ![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vercel-setup-assets/03.png)
 
-Sign-in with your email address and password
+Authorize Vercel to use your email on behalf of GitHub
 
 ![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vercel-setup-assets/02.png)
 
