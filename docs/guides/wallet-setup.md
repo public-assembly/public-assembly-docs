@@ -98,14 +98,6 @@ Your wallet connects you to new applications and allows you to truly own your da
 
 - [Get Started with Rainbow](https://learn.rainbow.me/get-started-with-rainbow)
 
-- **Click** on the “**Get a new wallet**” button
-- **Select** “Back up manually” and **write down**, **store**, or **memorize** your *12 word* **Secret Backup Phrase**
-- **Confirm your Secret Backup Phrase** to ensure you have it correct
-- Finding your **ETH address**
-    - Your ETH address where you will be able to withdraw, receive, and transfer ETH to other accounts
-    - Click on the profile emoji in the top left of the mobile app
-    - Using your ETH address anytime you are sending, depositing, or withdrawing earnings in ETH
-        - Copy address and paste where ever you need to transact ETH
     
 ## **How to Acquire ETH**
 
@@ -134,28 +126,23 @@ After your test networks have been enables click where it says Ethereum mainet a
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/18.png)
         
 - How to get **Testnet ETH** for **MetaMask** development.
-    - [**Register](https://alchemy.com/?a=829a4dd348)** or **Sign In** if you’re already building on **Alchemy**.
+    - [Register](https://alchemy.com/?a=829a4dd348) or Sign In if you’re already building on Alchemy.
 
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/19.png)
-        
-    - **Go** to **[goerlifaucet.com](http://goerlifaucet.com/)**
 
-    ![img]()
         
     - **Copy/Paste** your **wallet address** or **ENS domain**
 
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/20.png)
 
-    - CLick Send Me ETH’
-
-    ![img]()
+    - Click Send Me ETH
 
     - Upon exiting the popup, a transaction hash should now be visible in the ‘Your Transactions’ table.
 
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/24.png)
 
     - **Click** on the **transaction hash** to view it’s details
-        - *(Like how much **Goerli ETH** you received from the **Goerli testnet faucet**, and what the Txns gas price was)*
+        - (Like how much Goerli ETH you received from the Goerli testnet faucet, and what the Txns gas price was)
 
     ***In MetaMask***   
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/25.png)
@@ -169,30 +156,36 @@ After your test networks have been enables click where it says Ethereum mainet a
         
     - With **Goerli ETH** funds in your wallet, you can now connect to the **Goerli Testnet** and start using your **ETH** to test your smart contracts!
 
-    ### **Buying ETH directly from your wallet provider**
+---
+
+### **Buying ETH directly from your wallet provider**
     
-    Click "Buy" in your MetaMask and it should take you to this pop. 
-    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/14.png)
+Click "Buy" in your MetaMask and it should take you to this pop up.
 
-    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/26.png)
+Here you will see different options on how to smoothly upload ETH into your wallet but the most important thing is that there are direct ways to upload eth through debit card or credit card.
 
-    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/27.png)
-
-    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/28.png)
+Depending on your message you may need to provide ID so please choose at your discretion
 
 
-    ### **Buying ETH from a Centralized Exchange**
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/26.png)
+
+You are also able to pay with credit or debit card directly in the app
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/27.png)
+
+
+### **Buying ETH from a Centralized Exchange**
     
-    A centralized crypto exchange is **one that's created and run by a company.** These exchanges are considered centralized because one company oversees all the transactions and sets the exchange's rules and fees.
+A centralized crypto exchange is **one that's created and run by a company.** These exchanges are considered centralized because one company oversees all the transactions and sets the exchange's rules and fees.
     
-    - Centralized exchanges are considered safe and require you to KYC or submit a Photo ID to make an account. Be mindful that most CEXs have a 24-48 hour verification period to make an account.
+- Centralized exchanges are considered safe and require you to KYC or submit a Photo ID to make an account. Be mindful that most CEXs have a 24-48 hour verification period to make an account.
 
     - [Coinbase](https://coinbase.com/)
         - [https://youtu.be/CZDgLG6jpgw](https://youtu.be/CZDgLG6jpgw)
     - [Crypto.com](https://crypto.com/)
         - [https://www.youtube.com/watch?v=AaIm034U1yo](https://www.youtube.com/watch?v=AaIm034U1yo)
 
-    Refer back to  earlier in this guide. you are able to deposit eth directy from your coinbase wallet. or use your wallet address to send eth through the mobile UI of coinbase or crypto.com
+Refer back to  earlier in this guide. you are able to deposit eth directy from your coinbase wallet. or use your wallet address to send eth through the mobile UI of coinbase or crypto.com
 
 ## **Gas Fees**
 
