@@ -1,19 +1,19 @@
 # Visual Studio Code Setup
 
-## ****Introduction****
+## **Introduction**
 
 Visual Studio Code is a lightweight but strong source code editor that runs on your desktop. Additionally, it provides built-in support for JavaScript.
 
 This guide walks you through installing Visual Studio Code 
 
-## Prerequisites
+## **Prerequisites**
 
 In order to begin this guide, you must have completed the following:
 
 - [Getting Started with GitHub]
 - [Vercel Setup]
 
-## What you’ll do
+## **What You’ll Do**
 
 - Install Visual Studio Code
 - Add extensions
@@ -30,7 +30,7 @@ You should see this screen. Click directly on the blue download arrows depending
 
 [https://lh3.googleusercontent.com/jt61BVusnrdNSN53EpPr_hmFBuQItirM_LqIsDIH36zN0tygCnFCrwtz9OL3dfaN9rWTDHdUuFlcWeFl68VgJLv3AYWL4YAbgM6CfbBi-W39-1IKjZVbRpu2BAp2JEaZ2uvgLLORD1PT55EiNUkzSgfX9_NwRdLRj55ri2R3wb-z4kjaCfQipUON](https://lh3.googleusercontent.com/jt61BVusnrdNSN53EpPr_hmFBuQItirM_LqIsDIH36zN0tygCnFCrwtz9OL3dfaN9rWTDHdUuFlcWeFl68VgJLv3AYWL4YAbgM6CfbBi-W39-1IKjZVbRpu2BAp2JEaZ2uvgLLORD1PT55EiNUkzSgfX9_NwRdLRj55ri2R3wb-z4kjaCfQipUON)
 
-### Windows
+### **Windows**
 
 In the bottom left side of your screen, you should see the VSCodeUserSetup install. Upon completion, click on it.
 
@@ -64,7 +64,7 @@ You should now see this screen. Congratulations, you have now successfully insta
 
 [https://lh4.googleusercontent.com/15jzrUICoO_rmi3Q8p7aHFPBBPqTF3ECCvP375XlSOv6AvS1tnT9mdEJKvOneRCrctRry-BxvKtHDklNaKQgE27lNbYElswnhkCPyZh6uRkACFC4TlLTvN9vhYGzEKFRa1QKSh6NnHMW7XrNkU_UKOvV4xPHyvGCxGn1zIQzXwuG6OQY1dOmv97-](https://lh4.googleusercontent.com/15jzrUICoO_rmi3Q8p7aHFPBBPqTF3ECCvP375XlSOv6AvS1tnT9mdEJKvOneRCrctRry-BxvKtHDklNaKQgE27lNbYElswnhkCPyZh6uRkACFC4TlLTvN9vhYGzEKFRa1QKSh6NnHMW7XrNkU_UKOvV4xPHyvGCxGn1zIQzXwuG6OQY1dOmv97-)
 
-### Mac OS X
+### **Mac OS X**
 
 Open the browser's download list and locate the downloaded app or archive. If archive, extract the archive contents. Use double-click for some browsers or select the 'magnifying glass' icon with Safari.
 
@@ -95,8 +95,6 @@ code .
 
 ### **Extensions to Consider Adding to VS Code**
 
-- DeveloperDAO Theme
-    - [https://marketplace.visualstudio.com/items?itemName=DeveloperDAOTheme.DeveloperDAOTheme](https://marketplace.visualstudio.com/items?itemName=DeveloperDAOTheme.DeveloperDAOTheme)
 - Solidity
     - [https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
 - Truffle for VS Code (ConsenSys)
@@ -116,7 +114,7 @@ code .
 
 ---
 
-## Further Resources
+## **Further Resources**
 
 [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics) | Visual Studio Code
 

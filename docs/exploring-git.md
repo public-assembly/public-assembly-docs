@@ -14,7 +14,7 @@ In order to begin this guide, you must have completed the following:
 - [Vercel Setup](https://www.notion.so/Vercel-Setup-5a93184617154e2eaf05ed3e6c819bd1)
 - [Visual Studio Code Setup](https://www.notion.so/Visual-Studio-Code-Setup-eff31c44564645f08a8faf1c752c841a)
 
-## **What you’ll do**
+## **What You’ll Do**
 
 - Install Git
 - Create a Repository
@@ -233,7 +233,7 @@ Your VS Code editor should still be open at this point in the tutorial.
 
 ---
 
-## Further resources
+## **Further Resources**
 
 [Git command cheat-sheet ](https://education.github.com/git-cheat-sheet-education.pdf)
 

@@ -2,12 +2,17 @@
 
 ## **Introduction**
 ## **Prerequisites**
+- [Getting Started with GitHub]
+- [Vercel Setup]
+- [Visual Studio Code Setup]
+- [Exploring Git]
+- [Installing Node]
 
 ## **What You’ll Do**
 
 ## **TUTORIAL**
 
 ---
-## **Further Reading**
+## **Further Resources**
 
 ---

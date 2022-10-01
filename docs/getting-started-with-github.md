@@ -11,7 +11,7 @@ This tutorial teaches you how to make a GitHub account and how to navigate to th
 
 To complete this tutorial, you need a [GitHub account](http://github.com/) and Internet access. You don't need to know how to code, use the command line, or install Git (the version control software that GitHub is built on).
 
-## **What you’ll do**
+## **What You’ll Do**
 
 - Sign Up
 
@@ -54,4 +54,9 @@ Congratulations, you have successfully set up your GitHub account!
 
 ---
 
-## **Further resources**
+## **Further Resources**
+[GitHub crash course](https://www.youtube.com/watch?v=g6JKWnz9YII)
+--
+
+
+---

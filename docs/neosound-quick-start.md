@@ -2,16 +2,16 @@
 
 > A new way to listen, share, and publish music on the internet. Built upon modular + open-source building blocks.
 
-## Introduction
+## **Introduction**
 
 - What is Neosound video
 - Website Overview video
 
-## Prerequisites
+## **Prerequisites**
 
 - None!
 
-## What you’ll do
+## **What You’ll Do**
 
 - Wallet Setup
 - Create Zora Editions
@@ -24,12 +24,12 @@
 ---
 ## **TUTORIAL**
 
-## Wallet Setup
+## **Wallet Setup**
 
-## Create Zora Editions
+## **Create Zora Editions**
 
 ---
 
-## Further Resources
+## **Further Resources**
 
 ---

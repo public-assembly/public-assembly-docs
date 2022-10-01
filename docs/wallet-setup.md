@@ -1,10 +1,10 @@
 # Wallet Setup
 
-// video here 
+// video here
 
 ## **Introduction**
 
-Public blockchains like **Ethereum** are the next evolution of Internet. To access the new world you need the right tools. 
+Public blockchains like **Ethereum** are the next evolution of Internet. To access the new world you need the right tools.
 
 Web3 wallets are more than just wallets that hold digital monetary value. Currency binds communities together and with your Web 3 wallet you can  crowdsource projects, publish art,, writings and other media, or invest in other people’s creations. Your wallet connects you to new applications and allows you to truly own your data and identity. 
 
@@ -162,6 +162,8 @@ This guide will walk you through creating your first **Web3 wallet**.
 
 ## **Gas Fees**
 
+Gas is the unit of measure for how much computational work is required to process transactions. Fees charged when moving funds on the Ethereum blockchain network. Gas fees are used to compensate Ethereum miners for their work in verifying transactions and securing the network. All users must pay in order to perform any function on the Ethereum blockchain.
+
 ---
 
 ## **Further Resources**
@@ -171,3 +173,6 @@ This guide will walk you through creating your first **Web3 wallet**.
 [Get Started with Rainbow](https://learn.rainbow.me/get-started-with-rainbow) | **Rainbow**
 
 [Wallet Security and Scam Safety 101](https://youtube.com/playlist?list=PL0zEUTVaoPOzxJvrFFNwpNyCoi_M-k3DE) | **Coinbase**
+
+
+---
