@@ -21,15 +21,15 @@ In order to begin this guide, you must have completed the following:
 
 To sign up for Vercel, go to [https://vercel.com/](https://vercel.com//). Then, click the Sign-Up link.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b30f210-2b88-4176-873c-3a8372d1d3f2/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vercel-setup-assets/01.png)
 
 Next, click “Continue with GitHub”  to authenticate your Git provider.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75d49a51-cd66-4d96-b25b-6eef5081b340/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vercel-setup-assets/02.png)
 
 Sign-in with your email address and password
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e423819-63e3-41b6-879c-ea5a1ef9d9aa/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vercel-setup-assets/03.png)
 
 If you haven’t already you may be asked to verify a phone number. Confirm the phone address as in the image below.
 
@@ -37,13 +37,13 @@ If you haven’t already you may be asked to verify a phone number. Confirm the 
 
 Finally, you will be directed to the [https://vercel.com/dashboard](https://vercel.com/dashboard) page.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bae487b4-3039-4974-91d7-727f6a3e8178/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vercel-setup-assets/04.png)
 
 Congratulations, you have successfully set up your Vercel account!
 
 ---
 ## **Further Resources**
 
-[Story of NEXT JS](https://www.youtube.com/watch?v=BILxV_vrZO0)
+[Story of Next JS](https://www.youtube.com/watch?v=BILxV_vrZO0)
 
 ---
