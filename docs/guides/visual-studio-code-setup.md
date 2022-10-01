@@ -4,7 +4,7 @@
 
 Visual Studio Code is a lightweight but strong source code editor that runs on your desktop. Additionally, it provides built-in support for JavaScript.
 
-This guide walks you through installing Visual Studio Code 
+This guide walks you through installing Visual Studio Code
 
 ## **Prerequisites**
 
@@ -66,17 +66,20 @@ You should now see this screen. Congratulations, you have now successfully insta
 
 ### **Mac OS X**
 
-Open the browser's download list and locate the downloaded app or archive. If archive, extract the archive contents. Use double-click for some browsers or select the 'magnifying glass' icon with Safari.
+Navigate to VS Code official download website
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55e4fb27-2b1d-44d6-8cf7-8154d9b36c35/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vscode-install-assets/01.png)
+
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vscode-install-assets/02.png)
+
+Open the associated zip file in the downloads bar of your browser
+
+![download](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vscode-install-assets/03.png)
 
 Drag `Visual Studio Code.app` to the **Applications** folder, making it available in the macOS Launchpad.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0793a90e-a727-42db-a0fa-2ac242307dc4/Untitled.png)
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vscode-install-assets/04.png)
 
-Open VS Code from the **Applications** folder, by double clicking the icon.
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/089b5c61-2e5d-45bf-acf7-1be24b5c93a6/Untitled.png)
 
 *Optional: Add VS Code to your Dock by right-clicking on the icon and choosing `Options`, `Keep in Dock`.*
 
@@ -85,7 +88,7 @@ After installing the VS Code, we can also configure the code to open from a **co
 1. Launch Visual Studio Code.
 2. Open the **Command Palette** (⇧⌘P) and type ‘**shell command**‘ to find the **Shell Command: Install the ‘code’ command in the PATH** command.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26728341-eeaf-44c5-ab29-10efa8a9dcb0/Untitled.png)
+![Untitled]()
 
 Restart the terminal for the new `$PATH` value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
 
