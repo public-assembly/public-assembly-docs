@@ -6,9 +6,9 @@
 
 Public blockchains like **Ethereum** are the next evolution of Internet. To access the new world you need the right tools.
 
-Web3 wallets are more than just wallets that hold digital monetary value. Currency binds communities together and with your Web 3 wallet you can  crowdsource projects, publish art,, writings and other media, or invest in other people’s creations. Your wallet connects you to new applications and allows you to truly own your data and identity. 
+Web3 wallets are more than just wallets that hold digital monetary value. Currency binds communities together and with your Web 3 wallet you can  crowdsource projects, publish art, writings and other media, or invest in other people’s creations.
 
-This guide will walk you through creating your first **Web3 wallet**.
+Your wallet connects you to new applications and allows you to truly own your data and identity. This guide will walk you through creating your first **Web3 wallet**.
 
 ## **Prerequisites**
 
@@ -17,7 +17,7 @@ This guide will walk you through creating your first **Web3 wallet**.
 ## **What You’ll Do**
 
 - Wallet Setup
-    - Option 1: **MetaMask Desktop and Mobile**
+    - Option 1: **MetaMask Desktop Extension**
         - Install **MetaMask**
         - Secret Recovery Phrase
         - ****How to find your Ethereum address in MetaMask****
@@ -43,48 +43,51 @@ This guide will walk you through creating your first **Web3 wallet**.
 - **Desktop**
     
     **Download/Install** the **MetaMask extension** from your browser
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/01.png)
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/02.png)
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/03.png)
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3aafcc8d-6a1d-4cd4-a3f2-4479e67d99c6/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c606ed24-10a1-4bb3-be47-d36150ed5ae8/Untitled.png)
     
     **Click** on the “**Get Started**” button
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/022486d3-d0d7-4a09-85e5-f8b6ab3cf455/Untitled.png)
     
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/04.png)
+
     **Select** “**Create a Wallet**” and **create** a **password**
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab24806a-782a-471c-a143-c47f6340578c/Untitled.png)
-    
+
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/05.png)
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/06.png)
+
     **Write** **down**, **store**, or **memorize** your *12 Word* **Secret Backup Phrase**
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/43e9ba4f-9632-4238-920e-ef539bdd6175/Untitled.png)
-    
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/07.png)
+
     Your *12 Word* **Secret Backup Phrase** backs up your account.
     
     Without this phrase, you can't restore your MetaMask account or login into it on another device.
     
+
     Consider storing these words in a password manager, or downloading a file containing the phrase to a secure **external** disk.
     
+
     *(Do not store this on your desktop.  If someone steals, hacks, or finds your computer, they may access your MetaMask wallet.)*
     
+
     **Confirm** your **Secret Backup Phrase** to ensure you have it correct when asked.
     
     *This ensures you have the right phrase for account restoration*
     
     **Click** "Done" after verifying your **Secret Backup Phrase**.
     
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/09.png)
 
-- **Mobile**
-    - **Download/Launch** the **MetaMask app** from **Google Play** or the **App Store**
-    - **Click** on the “**Get Started**” button
-    - **Select** “**Create a Wallet**” and **create** a **password**
-    - **Write down**, **store**, or **memorize** your **Secret Backup Phrase**
-    - **Confirm your Secret Backup Phrase** to ensure you have it correct
-        - Finding your **ETH address**
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5689f9e1-1329-4d3e-b1ab-9d4a7777d59b/Untitled.png)
-        
+    Welcome to your first Web3 wallet. At the top under the name Account 1 you will be able to copy your ETH address anywhere you need to when sending transactions on the blockchain 
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/11.png)
     
 
 ### **Option 2: Rainbow Wallet**
@@ -92,6 +95,9 @@ This guide will walk you through creating your first **Web3 wallet**.
 - What is **Rainbow Wallet**?
     - **Rainbow Wallet** is a mobile only **web3/crypto** wallet application for **Android and iOS** that supports **Ethereum**
 - **Download/Launch** **Rainbow Wallet** from the **Google Play** or the **App Store**
+
+- [Get Started with Rainbow](https://learn.rainbow.me/get-started-with-rainbow)
+
 - **Click** on the “**Get a new wallet**” button
 - **Select** “Back up manually” and **write down**, **store**, or **memorize** your *12 word* **Secret Backup Phrase**
 - **Confirm your Secret Backup Phrase** to ensure you have it correct
@@ -101,11 +107,6 @@ This guide will walk you through creating your first **Web3 wallet**.
     - Using your ETH address anytime you are sending, depositing, or withdrawing earnings in ETH
         - Copy address and paste where ever you need to transact ETH
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/16628057-1495-4100-8fa8-7b97562ec82a/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1e312285-93e9-4936-8935-471d6ff6c1bb/Untitled.png)
-    
-
 ## **How to Acquire ETH**
 
 ### **Faucet ETH**
@@ -120,47 +121,81 @@ This guide will walk you through creating your first **Web3 wallet**.
     - Requires Alchemy account. Claim 0.5 ETH every 24 hours.
         
         [Goerli Faucet](https://goerlifaucet.com/)
+
+Click the top right of the screen where it says Ethereum mainnet and then click show/hide test networks, this will take you to the settings panel where you will be able to toggle test networks. 
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/12.png)
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/13.png)
+
+After your test networks have been enables click where it says Ethereum mainet again and select Goerli test network from the options
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/18.png)
         
 - How to get **Testnet ETH** for **MetaMask** development.
     - [**Register](https://alchemy.com/?a=829a4dd348)** or **Sign In** if you’re already building on **Alchemy**.
-        
-        ![https://assets-global.website-files.com/5f973c97cf5aea614f93a26c/6282b2b8bfe3d13bfa4dd1eb_4g2Lkgvi-Vu9B6Bx4bEp0HcPs8NtjVkifcu9vnRKYhjDuwU2n5gqSdh_USczazqWJDMEh6vJBhzoVi2TKeoF9YxCL-zCCSjjWXkEvJ36hBcCRoOnGU6TyPEkMS7IFl090PIIzxeCb2wqNmrOQA.png](https://assets-global.website-files.com/5f973c97cf5aea614f93a26c/6282b2b8bfe3d13bfa4dd1eb_4g2Lkgvi-Vu9B6Bx4bEp0HcPs8NtjVkifcu9vnRKYhjDuwU2n5gqSdh_USczazqWJDMEh6vJBhzoVi2TKeoF9YxCL-zCCSjjWXkEvJ36hBcCRoOnGU6TyPEkMS7IFl090PIIzxeCb2wqNmrOQA.png)
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/19.png)
         
     - **Go** to **[goerlifaucet.com](http://goerlifaucet.com/)**
-        - After clicking ‘Send Me ETH’, a pop up will congratulate you on successfully requesting **Goerli ETH** from the **Goerli testnet faucet**.
+
+    ![img]()
+        
     - **Copy/Paste** your **wallet address** or **ENS domain**
-        - Upon exiting the popup, a transaction hash should now be visible in the ‘Your Transactions’ table.
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/20.png)
+
+    - **Click ‘**Send Me ETH’
+
+    ![img]()
+
+    - Upon exiting the popup, a transaction hash should now be visible in the ‘Your Transactions’ table.
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/24.png)
+
     - **Click** on the **transaction hash** to view it’s details
         - *(Like how much **Goerli ETH** you received from the **Goerli testnet faucet**, and what the Txns gas price was)*
-        - If you wish to browse all transactions on the Goerli network, you can do so on this **[Goerli testnet explorer](https://goerli.etherscan.io/)**.
-    - **Click ‘**Send Me ETH’
+
+    ***In MetaMask***   
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/25.png)
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/22.png)
+
+    - If you wish to browse all transactions on the Goerli network, you can do so on this **[Goerli testnet explorer](https://goerli.etherscan.io/)**.
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/23.png)
+
         
-        ![https://assets-global.website-files.com/5f973c97cf5aea614f93a26c/6282b2b864b831ed9fd846d4_xFlAXXwQJHdy41snRPL_GYNc7EMqyh4osEs4G-WCwZUHmNgPvMjyew0xLxS3020VcS8E_jvVh1I7VNUuYOgyTO0ChoB8pnHsF3GHF4wNuSFSaKocRPnYPKNfR--RxxYi3BhXL9WYyGQ2-lH6PA.png](https://assets-global.website-files.com/5f973c97cf5aea614f93a26c/6282b2b864b831ed9fd846d4_xFlAXXwQJHdy41snRPL_GYNc7EMqyh4osEs4G-WCwZUHmNgPvMjyew0xLxS3020VcS8E_jvVh1I7VNUuYOgyTO0ChoB8pnHsF3GHF4wNuSFSaKocRPnYPKNfR--RxxYi3BhXL9WYyGQ2-lH6PA.png)
-        
-    
     - With **Goerli ETH** funds in your wallet, you can now connect to the **Goerli Testnet** and start using your **ETH** to test your smart contracts!
-    
+
     ### **Buying ETH directly from your wallet provider**
     
-    ![30F00CE1-E36F-4666-9A53-0AC61C425864.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4dc8c9b-6ee2-4061-a20d-296ef6074db3/30F00CE1-E36F-4666-9A53-0AC61C425864.jpeg)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0cc9a4d2-c012-42ca-9bfb-d23f4ad31c62/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b7a712d-eb2a-41d5-a861-1b2c94ad6eb7/Untitled.png)
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5555d4e6-9a86-4d96-8c30-fac3f23e1749/Untitled.png)
-    
+    Click "Buy" in your MetaMask and it should take you to this pop. 
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/14.png)
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/26.png)
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/27.png)
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/28.png)
+
+
     ### **Buying ETH from a Centralized Exchange**
     
     A centralized crypto exchange is **one that's created and run by a company.** These exchanges are considered centralized because one company oversees all the transactions and sets the exchange's rules and fees.
     
     - Centralized exchanges are considered safe and require you to KYC or submit a Photo ID to make an account. Be mindful that most CEXs have a 24-48 hour verification period to make an account.
+
     - [Coinbase](https://coinbase.com/)
         - [https://youtu.be/CZDgLG6jpgw](https://youtu.be/CZDgLG6jpgw)
     - [Crypto.com](https://crypto.com/)
         - [https://www.youtube.com/watch?v=AaIm034U1yo](https://www.youtube.com/watch?v=AaIm034U1yo)
 
+    Refer back to  earlier in this guide. you are able to deposit eth directy from your coinbase wallet. or use your wallet address to send eth through the mobile UI of coinbase or crypto.com
+
 ## **Gas Fees**
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/17.png)
 
 Gas is the unit of measure for how much computational work is required to process transactions. Fees charged when moving funds on the Ethereum blockchain network. Gas fees are used to compensate Ethereum miners for their work in verifying transactions and securing the network. All users must pay in order to perform any function on the Ethereum blockchain.
 

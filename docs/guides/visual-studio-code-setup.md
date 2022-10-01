@@ -85,7 +85,7 @@ After installing the VS Code, we can also configure the code to open from a **co
 1. Launch Visual Studio Code.
 2. Open the **Command Palette** (⇧⌘P) and type ‘**shell command**‘ to find the **Shell Command: Install the ‘code’ command in the PATH** command.
 
-![Untitled]()
+![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vscode-install-assets/Screen%20Shot%202022-10-01%20at%201.44.13%20PM.png)
 
 Restart the terminal for the new `$PATH` value to take effect. You'll be able to type 'code .' in any folder to start editing files in that folder.
 
