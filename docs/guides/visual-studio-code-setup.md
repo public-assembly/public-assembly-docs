@@ -60,6 +60,7 @@ Verify that ‘Launch Visual Studio Code’ is checked, and then select ‘Finis
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/vscode-install-assets/Windows/Untitled-7.png)
 
+---
 ### **Mac OS X**
 
 Navigate to VS Code official download website
