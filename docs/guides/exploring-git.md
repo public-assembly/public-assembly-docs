@@ -1,4 +1,4 @@
-# Exploring Git
+# Exploring Git on GitHub
 
 >
 / video here
@@ -221,7 +221,6 @@ You have the option to delete any unused or fully merged branches, but keeping t
 
 
 
-## Opening an Issue
 
 ---
 

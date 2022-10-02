@@ -169,6 +169,8 @@ open your VSCode editor and type 'git pull' in terminal , this will bring the re
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/27.png)
 
+## Opening an Issue 
+
 ## **Further Resources**
 
 [Git command cheat-sheet ](https://education.github.com/git-cheat-sheet-education.pdf)
