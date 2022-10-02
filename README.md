@@ -1,7 +1,5 @@
 # Welcome to the Public Assembly Docs!
 
-"What's Public Assembly?" - [Full scope](https://ourzora.notion.site/ourzora/Public-Assembly-1243e6a5700f4d0587e63b644bff4197)
-
 ## Features
 
 - Curation protocol
