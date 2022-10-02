@@ -1,8 +1,6 @@
 # Welcome to the Public Assembly Docs!
 
->
 
-=======
 ## Neosound Quick Start
 
 - [Get started]
