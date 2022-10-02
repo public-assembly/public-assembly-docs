@@ -1,9 +1,11 @@
 # Exploring Git Locally
-> Git from VSCode and terminal 
+> **Source Control on Visual Studio Code [WIP]**
 
 ## Introduction 
 
 ## Prerequisites 
+
+---
 
 ## TUTORIAL
 
@@ -17,7 +19,6 @@
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/15.png)
 
-## **Source Control on Visual Studio Code [WIP]**
 
 Open VS Code 
 
