@@ -90,23 +90,23 @@ prepare you files to be committed to the remote repository by clicking the '+' s
 After you have done that step you will see your files move up in section
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/06.png)
 
-type a message describing your changes, this helps the people you are working with understand your process and work asynchronously 
+After changes have been staged you should see the file move from unstages or stages, type update read me in the message box, the message box will serve as clear communication while working in teams 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/09.png)
 
+Navigate to the Terminal tab at the top and click “New Terminal”
+    
+Type `git -v`  or `git —version` in your terminal to confirm if git has been installed
+    
+```bash
+$ git -v 
+```
+type `git push` then `return` key
+this will prompt you to sign in with GitHub
 
-at the top of your screen navigate to the terminal tab and click a new terminal in vs code
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/07.png)
 
-type 'git -v' then 'return' key
-type 'git push' then 'return' key
-this will prompt you to sign in with GitHub
-![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/08.png)
 
-
-Authorize your account in the opened window by clicking authorize
-![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/09.png)
-
-after your account has been authorized, revisit the terminal tab and type 'git push'
+after your account has been authorized, revisit the terminal tab and type `git push`
 if successful you will see a number of lines link in the image below 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/10.png)
 
@@ -127,11 +127,12 @@ open your VSCode editor and type 'git pull' in terminal , this will bring the re
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/14.png)
 
 
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/15.png)
+
+
 ## Making a new branch in terminal 
 
 'git branch' check the current branch you are one, we are on main. 
-![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/15.png)
-
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/16.png)
 
@@ -176,24 +177,10 @@ open your VSCode editor and type 'git pull' in terminal , this will bring the re
     Make any edits to your `readme` file in plain text
     
     hit save 
-    
-- Pushing changes to GitHub
 
-    GitHub username and password
-    
     now navigate to the source control panel in vscode. a little 1 should have popped up for pending changes, on source control sign in to github… cmd/ctrl shift p 
     
     under changes tab click the + sign to stage changes, this is the equivalent of doing add . in terminal 
-    
-    after changes have been staged you should see the file move from unstages or stages, type update read me in the message box, the message box will serve as clear communication while working in teams 
-    
-    Navigate to the Terminal tab at the top and click “New Terminal”
-    
-    Type `git -v`  or `git —version` in your terminal to confirm if git has been installed
-    
-    ```bash
-    $ git -v 
-    ```
     
     git pull (or fetch and merge)
     git push -u origin main (or git branch [branch name], git push -u origin [branch name])
