@@ -123,9 +123,9 @@ Click the pencil on your newly pushed read me file
 Make edits to you read me file then commit those edits 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/13.png)
 
-open your VSCode editor and type 'git pull' in terminal , this will bring the remote changes to the file into your computer. pull is use if anyone is ever working with a product on the same team and wants to do something to the file 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/14.png)
 
+open your VSCode editor and type 'git pull' in terminal , this will bring the remote changes to the file into your computer. pull is use if anyone is ever working with a product on the same team and wants to do something to the file 
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/15.png)
 
