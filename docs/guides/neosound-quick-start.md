@@ -2,6 +2,7 @@
 
 > A new way to listen, share, and publish music on the internet. Built upon modular + open-source building blocks.
 
+// video here
 ## **Introduction**
 
 - What is Neosound video

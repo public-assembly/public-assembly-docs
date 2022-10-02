@@ -1,18 +1,18 @@
 # Exploring Git
 
+>
+// video here
 ## **Introduction**
 
-Git enables multiple developers to work together on projects. Git is the seed that connects GitHub and your local computer across the web. 
-
-This guide walks you through the Git Source Control features built into Visual Studio Code + GitHub.
+Git enables multiple developers to work together on projects. Git is the seed that connects GitHub and your local computer across the web. This guide walks you through the Git Source Control features built into Visual Studio Code + GitHub.
 
 ## **Prerequisites**
 
 In order to begin this guide, you must have completed the following:
 
-- [Getting Started with GitHub](https://www.notion.so/Getting-Started-with-GitHub-5ffbde3c760f4abcab093a393261392e)
-- [Vercel Setup](https://www.notion.so/Vercel-Setup-5a93184617154e2eaf05ed3e6c819bd1)
-- [Visual Studio Code Setup](https://www.notion.so/Visual-Studio-Code-Setup-eff31c44564645f08a8faf1c752c841a)
+- [Getting Started with GitHub]()
+- [Vercel Setup]()
+- [Visual Studio Code Setup]()
 
 ## **What You’ll Do**
 
@@ -30,25 +30,43 @@ In order to begin this guide, you must have completed the following:
 
 ### **Mac OS X**
 
-There are several options for installing Git on macOS. 
+Click here to download the latest (**2.37.3**) **64-bit** version [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
 
- [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20and%20homebrew/01.png)
 
+Navigate to homebrew and install in your terminal if you don't already have the package manager on your operating system. Here you will copy the link...
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20and%20homebrew/02.png)
+
+Open termnal in your launchpad or hit the 'F4' key on your keyboard and type terminal. 
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20and%20homebrew/03.png)
+
+
+
+Copy and paste the code into your terminal. You should be able to hit 'return' and run this code which will automatically download homebrew into your system. Must be on an administrator level user account. 
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20and%20homebrew/04.png)
+
+After homebrew has finished installing type 'brew install git' into the terminal and hit 'return' 
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20and%20homebrew/05.png)
+
+Congratulations you have successfully installed git into your computer. 
+---
 ### **Windows**
 
 Click here to download the latest (**2.37.3**) **64-bit** version [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
----
 
 - Install window will pop up swiftly after downloading.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/adcdc55b-9b1b-496a-a95c-906a3999dac9/Untitled.png)
+![]()
 
 - Make sure to follow the steps as your files update.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b73acc0-8a35-471f-bd61-aaffdb051aae/Untitled.png)
+![]()
 
-### **After Install**
+## **After Install**
 
 Open your VSCode application 
 
@@ -74,7 +92,8 @@ $ git config --global user.email "[johnny.a@gmail.com]"
 
 **Congrats, you are finished installing Git to your computer!** 
 
-### **Source Control on GitHub**
+---
+## **Source Control on GitHub**
 
 ### **Create a Repository**
 
@@ -84,47 +103,45 @@ Let’s start by creating a simple  `hello-world` repository.
 
 1. In the upper-right corner of any page, use the  drop-down menu, and select **New repository**.
     
-    ![https://docs.github.com/assets/cb-11427/images/help/repository/repo-create.png](https://docs.github.com/assets/cb-11427/images/help/repository/repo-create.png)
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/01.png)
+
     
 2. In the **Repository name** box, enter `hello-world`.
 3. In the **Description** box, write a short description.
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/02.png)
+
 4. Select **Add a README file**.
     1. *Often, repositories include a README file, a file with information about your project. README files are written in the plain text Markdown language. You can use this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) to get started with Markdown syntax. GitHub lets you add a README file at the same time you create your new repository. GitHub also offers other common options such as a license file, but you do not have to select any of them now.*
+
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/06.png)
+
 5. Select whether your repository will be **Public** or **Private**.
 6. Click **Create repository**.
     
-    ![https://docs.github.com/assets/cb-106613/images/help/repository/hello-world-repo.png](https://docs.github.com/assets/cb-106613/images/help/repository/hello-world-repo.png)
+    ![img]()
     
 
-### **Create a Branch**
+## **Branching**
 
 Branching lets you have different versions of a repository at one time.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a6c229d0-f9d0-4463-828b-644fef6537ee/Untitled.png)
+![img]()
 
 By default, your repository has one branch named `main` that is considered to be the definitive branch. You can create additional branches off of `main` in your repository. This is helpful when you want to add new features, experiment, and/or make edits to a project without changing the main source of code. The work done on different branches will not show up on the main branch until you merge it, which we will cover later in this guide. 
 
 When you create a branch off the `main` branch, you're making a copy, or snapshot, of `main` as it was at that point in time. If someone else made changes to the `main` branch while you were working on your branch, you could pull in those updates. Think about a car switching lanes. 
-
-This diagram shows:
-
-- The `main` branch
-- A new branch called `feature`
-- The journey that `feature` takes before it's merged into `main`
-
-![https://docs.github.com/assets/cb-23923/images/help/repository/branching.png](https://docs.github.com/assets/cb-23923/images/help/repository/branching.png)
-
 ### **Create a branch**
 
 1. Click the **Code** tab of your `hello-world` repository.
 2. Click the drop-down at the top of the file list that says **main**.
     
-    ![https://docs.github.com/assets/cb-6252/images/help/branch/branch-selection-dropdown.png](https://docs.github.com/assets/cb-6252/images/help/branch/branch-selection-dropdown.png)
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/07.png)
     
 3. Type a branch name, `readme-edits`, into the text box.
 4. Click **Create branch: readme-edits from main**.
 
-![https://docs.github.com/assets/cb-27383/images/help/repository/new-branch.png](https://docs.github.com/assets/cb-27383/images/help/repository/new-branch.png)
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/08.png)
 
 Now you have two branches, `main` and `readme-edits`. Right now, they look exactly the same. Next, you'll add changes to the new branch.
 
@@ -135,28 +152,83 @@ When you created a new branch in the previous step, GitHub brought you to the co
 You can make and save changes to the files in your repository. On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes so that other contributors can understand what you’ve done and why.
 
 1. Under the `readme-edits` branch you created, click the *README.md* file.
-2. Click to edit the file.
-3. In the editor, write a bit about yourself. Try using different Markdown elements.
+
+![readmebranch](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/09.png)
+
+
+2. Click the pencil to edit the file.
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/10.png)
+
+3. In the editor, write anything, maybe a bit about yourself. Try using different Markdown elements.
+
 4. In the **Commit changes** box, write a commit message that describes your changes.
+
+***When you do not write a message it automatically sets to Update README.md***
+
 5. Click **Commit changes**.
     
-    ![https://docs.github.com/assets/cb-75044/images/help/repository/first-commit.png](https://docs.github.com/assets/cb-75044/images/help/repository/first-commit.png)
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/12.png)
     
 
 These changes will be made only to the README file on your `readme-edits` branch, so now this branch contains content that's different from `main`.
 
-### **Clone a Repository**
+## **Creating your first pull request**
+
+After your changes have been committed you can then navigate to the repository origin by click hello world next to your name
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/13.png)
+
+Here you will see a message that says ther had been recent pushes on the reade-edits branhc and will prompt you to compare and pulll request 
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/14.png)
+
+Clicking 'create pull request' starts the process to blending the final edits that you did on the readme-edits branch with the main branch. While working in teams you can keep on perfect the branch as long as possible because merging to main affects the whole deployment of the application.
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/15.png)
+
+After you have created your first pull request you will be able to find all pending requests in the pull request tab on the repository front page
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/16.png)
+
+click the update readme.edit pull request.
+
+under conversations youll see a merge pull request event, this transfers the contents in the readmeedit branch into the main branch
+
+[img]
+
+navigate to the files changed tab 
+
+red changes mean deletions of lines of code
+green files mean everything thats bee changed
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/17.png)
+
+
+under conversations tab click merge pull request then click confirm because this actual cannot be undone.
+
+[img]
+
+back in the files changed tab blue means that these changes where successfully merged. 
+
+[img]
+[img]
+
+## **Clone a Repository**
 
 1. On GitHub.com, navigate to the main page of the repository.
 2. Above the list of files, click  **Code**.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f1b18ee-efd4-4962-b9a1-169a8da592ef/Untitled.png)
+![img]()
 
 Copy the URL for the repository.
 
 - It is okay to clone the repository using HTTPS. Under "HTTPS", click copy icon
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/78499712-e9da-4736-bc60-b79af6efd23d/Untitled.png)
+![img]()
+
+
+## **Source Control on Visual Studio Code [WIP]**
 
 Open VS Code 
 
@@ -185,7 +257,7 @@ $ git clone https://github.com/YOUR-USERNAME/hello-world
 > Unpacking objects: 100% (1/1), done.
 ```
 
-Change the current working directory to the newly cloned repository folder. 
+Change the current working directory to the newly cloned repository folder.
 
 ```bash
 $ cd hello-world
@@ -197,10 +269,6 @@ Type `code .` and this will open VSCode straight to the repository you made (hel
 $ code .
 ```
 
-### **Source Control on Visual Studio Code [WIP]**
-
-Your VS Code editor should still be open at this point in the tutorial.
-
 - Making and commiting changes
     
     via VSCode View explorer tab and locate your `readme` file. Open the file  
@@ -210,6 +278,8 @@ Your VS Code editor should still be open at this point in the tutorial.
     hit save 
     
 - Pushing changes to GitHub
+
+    GitHub username and password
     
     now navigate to the source control panel in vscode. a little 1 should have popped up for pending changes, on source control sign in to github… cmd/ctrl shift p 
     
@@ -228,8 +298,14 @@ Your VS Code editor should still be open at this point in the tutorial.
     git pull (or fetch and merge)
     git push -u origin main (or git branch [branch name], git push -u origin [branch name])
     
-    GitHub username and password
+
+    ## Git push --set -upstream [branch name]
+## Pulling merged changes back to your local repository 
+
+git fetch 
+git pull
     
+## Opening an Issue
 
 ---
 

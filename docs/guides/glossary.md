@@ -1,5 +1,6 @@
 # **Glossary**  
-A world filled with unicorns, long acronyms, and slang.
+
+> A world filled with unicorns, long acronyms, and slang.
 
 ## **A**
 - **Aggregation** - In the context of blockchain, NFT aggregators gather listings from multiple marketplaces and platforms into one place. This provides buyers with a simplified interface to compare prices and acquire NFTs from ddifferent sources.

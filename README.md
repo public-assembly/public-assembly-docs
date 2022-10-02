@@ -1,33 +1,26 @@
 # Welcome to the Public Assembly Docs!
 
-"What's Public Assembly?" - [Full scope](https://ourzora.notion.site/ourzora/Public-Assembly-1243e6a5700f4d0587e63b644bff4197)
-
-## Features
-
-- Curation protocol
-- Open-source modular package library
-- Open-source UI react hooks and audio component library
-
+>
+// Video here
 ## Neosound Quick Start
 
 - [Get started]
 
-## Guides
+## Guides [WIP]
 
-- [Getting Started with Public Assembly]
 - [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/assemble-package.md)
 - [Wallet Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/wallet-setup.md)
 - [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/getting-started-with-github.md)
 - [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/vercel-setup.md)
 - [Visual Studio Code Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/visual-studio-code-setup.md)
-- [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/exploring-git.md)
+- [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/exploring-git.md) 
 - [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/installing-node.md)
 
 ## Documentation
 
-- [Curation Protocol]
-- [OS Modular Package Library]
-- [OS Modular Audio Player Library]
+- [Curation Protocol] [WIP]
+- [OS Modular Package Library] [WIP]
+- [OS Modular Audio Player Library] [WIP]
 - [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/glossary.md)
 
 ## Communcation

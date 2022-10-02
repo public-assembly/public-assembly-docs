@@ -1,6 +1,7 @@
 # Vercel Setup
 
-[https://www.loom.com/share/f93ec145c9d84921a6667ddcbd9d14ad](https://www.loom.com/share/f93ec145c9d84921a6667ddcbd9d14ad)
+>
+[Video Tutorial](https://www.loom.com/share/f93ec145c9d84921a6667ddcbd9d14ad)
 
 ## **Introduction**
 
