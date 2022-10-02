@@ -111,7 +111,7 @@ Let’s start by creating a simple  `hello-world` repository.
 3. In the **Description** box, write a short description.
 
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/02.png)
-    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/image.png)
+   
 
 4. Select **Add a README file**.
     1. *Often, repositories include a README file, a file with information about your project. README files are written in the plain text Markdown language. You can use this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) to get started with Markdown syntax. GitHub lets you add a README file at the same time you create your new repository. GitHub also offers other common options such as a license file, but you do not have to select any of them now.*
@@ -215,105 +215,12 @@ under conversations tab click merge pull request then click confirm because this
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/Screen%20Shot%202022-10-02%20at%209.13.46%20AM.png)
 
 
-back in the files changed tab blue means that these changes where successfully merged. 
-
-![img]()
-
 You have the option to delete any unused or fully merged branches, but keeping them as a point of reference for further work is common. 
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/19.png)
 
-## **Clone a Repository**
-
-1. On GitHub.com, navigate to the main page of the repository.
-2. Above the list of files, click  **Code**.
-
-![img]()
-
-Copy the URL for the repository.
-
-- It is okay to clone the repository using HTTPS. Under "HTTPS", click copy icon
-
-![img]()
 
 
-## **Source Control on Visual Studio Code [WIP]**
-
-Open VS Code 
-
-Navigate to the Terminal tab and click “**New Terminal**”
-
-Change the current working directory to the folder location where you want the cloned directory. *(cd means change directory, try Desktop if you have never done this before)* 
-
-```bash
-$ cd Desktop
-```
-
-Type `git clone`, and then paste the URL you copied earlier.
-
-```powershell
-$ git clone https://github.com/YOUR-USERNAME/hello-world
-```
-
-Press **Enter** to create your local clone. You should see a message like the one below
-
-```bash
-$ git clone https://github.com/YOUR-USERNAME/hello-world
-> Cloning into `hello-world`...
-> remote: Counting objects: 1, done.
-> remote: Compressing objects: 100% (1/1), done.
-> remove: Total 1 (delta 1), reused 1 (delta 1)
-> Unpacking objects: 100% (1/1), done.
-```
-
-Change the current working directory to the newly cloned repository folder.
-
-```bash
-$ cd hello-world
-```
-
-Type `code .` and this will open VSCode straight to the repository you made (hello-world) this is now connected to both internet and your to your local computer
-
-```bash
-$ code .
-```
-
-- Making and commiting changes
-    
-    via VSCode View explorer tab and locate your `readme` file. Open the file  
-    
-    Make any edits to your `readme` file in plain text
-    
-    hit save 
-    
-- Pushing changes to GitHub
-
-    GitHub username and password
-    
-    now navigate to the source control panel in vscode. a little 1 should have popped up for pending changes, on source control sign in to github… cmd/ctrl shift p 
-    
-    under changes tab click the + sign to stage changes, this is the equivalent of doing add . in terminal 
-    
-    after changes have been staged you should see the file move from unstages or stages, type update read me in the message box, the message box will serve as clear communication while working in teams 
-    
-    Navigate to the Terminal tab at the top and click “New Terminal”
-    
-    Type `git -v`  or `git —version` in your terminal to confirm if git has been installed
-    
-    ```bash
-    $ git -v 
-    ```
-    
-    git pull (or fetch and merge)
-    git push -u origin main (or git branch [branch name], git push -u origin [branch name])
-    
-
-    ## Git push --set -upstream [branch name]
-## Pulling merged changes back to your local repository 
-
-git fetch 
-git pull
-    
 ## Opening an Issue
 
 ---
