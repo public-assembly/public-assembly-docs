@@ -1,7 +1,7 @@
 # Installing Node
 
 >
-// video here
+/ video here
 ## **Introduction**
 
 ## **Prerequisites**

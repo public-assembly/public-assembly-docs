@@ -1,7 +1,7 @@
 # Getting Started with Public Assembly
 
 >
-// video here
+/ video here
 
 ## **Introduction**
 ## **Prerequisites**

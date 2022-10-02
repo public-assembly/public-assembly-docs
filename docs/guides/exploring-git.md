@@ -1,7 +1,7 @@
 # Exploring Git
 
 >
-// video here
+/ video here
 ## **Introduction**
 
 Git enables multiple developers to work together on projects. Git is the seed that connects GitHub and your local computer across the web. This guide walks you through the Git Source Control features built into Visual Studio Code + GitHub.

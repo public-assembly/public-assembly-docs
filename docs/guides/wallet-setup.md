@@ -1,7 +1,7 @@
 # Wallet Setup
 
 > 
-// video here
+/video here
 
 ## **Introduction**
 

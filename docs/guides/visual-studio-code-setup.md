@@ -1,7 +1,7 @@
 # Visual Studio Code Setup
 
 >
-// video here
+/video here
 ## **Introduction**
 
 Visual Studio Code is a lightweight but strong source code editor that runs on your desktop. Additionally, it provides built-in support for JavaScript.
