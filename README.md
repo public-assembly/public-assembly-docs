@@ -1,7 +1,7 @@
 # Welcome to the Public Assembly Docs!
 
 >
-/ Video here
+
 =======
 ## Neosound Quick Start
 
