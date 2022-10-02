@@ -60,11 +60,11 @@ Click here to download the latest (**2.37.3**) **64-bit** version [https://git
 
 - Install window will pop up swiftly after downloading.
 
-![]()
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20windows/Untitled.png)
 
 - Make sure to follow the steps as your files update.
 
-![]()
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20windows/complete.png)
 
 ## **After Install**
 
