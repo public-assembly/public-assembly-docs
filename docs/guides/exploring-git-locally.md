@@ -169,31 +169,6 @@ open your VSCode editor and type 'git pull' in terminal , this will bring the re
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/27.png)
 
-
-- Making and commiting changes
-    
-    via VSCode View explorer tab and locate your `readme` file. Open the file  
-    
-    Make any edits to your `readme` file in plain text
-    
-    hit save 
-
-    now navigate to the source control panel in vscode. a little 1 should have popped up for pending changes, on source control sign in to github… cmd/ctrl shift p 
-    
-    under changes tab click the + sign to stage changes, this is the equivalent of doing add . in terminal 
-    
-    git pull (or fetch and merge)
-    git push -u origin main (or git branch [branch name], git push -u origin [branch name])
-    
-
-    ## Git push --set -upstream [branch name]
-## Pulling merged changes back to your local repository 
-
-git fetch 
-git pull
-
-
-
 ## **Further Resources**
 
 [Git command cheat-sheet ](https://education.github.com/git-cheat-sheet-education.pdf)
