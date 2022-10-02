@@ -1,7 +1,16 @@
 # Welcome to the Public Assembly Docs!
 
+<<<<<<< HEAD
 >
 // Video here
+=======
+## Features
+
+- Curation protocol
+- Open-source modular package library
+- Open-source UI react hooks and audio component library
+
+>>>>>>> refs/remotes/origin/main
 ## Neosound Quick Start
 
 - [Get started]
