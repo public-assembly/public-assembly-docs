@@ -51,7 +51,7 @@ After homebrew has finished installing type 'brew install git' into the terminal
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20and%20homebrew/05.png)
 
-Congratulations you have successfully installed git into your computer. 
+
 ---
 ### **Windows**
 
@@ -90,6 +90,7 @@ Type git config --global user.email “[valid-email]”, preferably the email yo
 $ git config --global user.email "[johnny.a@gmail.com]"
 ```
 
+
 **Congrats, you are finished installing Git to your computer!** 
 
 ---
@@ -110,6 +111,7 @@ Let’s start by creating a simple  `hello-world` repository.
 3. In the **Description** box, write a short description.
 
     ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/02.png)
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/image.png)
 
 4. Select **Add a README file**.
     1. *Often, repositories include a README file, a file with information about your project. README files are written in the plain text Markdown language. You can use this [cheat sheet](https://www.markdownguide.org/cheat-sheet/) to get started with Markdown syntax. GitHub lets you add a README file at the same time you create your new repository. GitHub also offers other common options such as a license file, but you do not have to select any of them now.*
@@ -119,14 +121,15 @@ Let’s start by creating a simple  `hello-world` repository.
 5. Select whether your repository will be **Public** or **Private**.
 6. Click **Create repository**.
     
-    ![img]()
+    ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/Screen%20Shot%202022-10-02%20at%207.30.37%20AM.png)
+    
     
 
 ## **Branching**
 
 Branching lets you have different versions of a repository at one time.
 
-![img]()
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/68747470733a2f2f646f63732e6769746875622e636f6d2f6173736574732f63622d32333932332f696d616765732f68656c702f7265706f7369746f72792f6272616e6368696e672e706e67-1.png)
 
 By default, your repository has one branch named `main` that is considered to be the definitive branch. You can create additional branches off of `main` in your repository. This is helpful when you want to add new features, experiment, and/or make edits to a project without changing the main source of code. The work done on different branches will not show up on the main branch until you merge it, which we will cover later in this guide. 
 
@@ -195,7 +198,7 @@ click the update readme.edit pull request.
 
 under conversations youll see a merge pull request event, this transfers the contents in the readmeedit branch into the main branch
 
-[img]
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/Screen%20Shot%202022-10-02%20at%209.09.36%20AM.png)
 
 navigate to the files changed tab 
 
@@ -207,12 +210,18 @@ green files mean everything thats bee changed
 
 under conversations tab click merge pull request then click confirm because this actual cannot be undone.
 
-[img]
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/Screen%20Shot%202022-10-02%20at%209.11.04%20AM.png)
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/Screen%20Shot%202022-10-02%20at%209.13.46%20AM.png)
+
 
 back in the files changed tab blue means that these changes where successfully merged. 
 
-[img]
-[img]
+![img]()
+
+You have the option to delete any unused or fully merged branches, but keeping them as a point of reference for further work is common. 
+
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/19.png)
 
 ## **Clone a Repository**
 
