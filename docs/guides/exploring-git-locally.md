@@ -51,7 +51,8 @@ $ git clone https://github.com/YOUR-USERNAME/hello-world
 > Unpacking objects: 100% (1/1), done.
 ```
 
-Change the current working directory to the newly cloned repository folder.
+Change (cd) to the newly cloned repository folder as the current working directory.
+
 
 ```bash
 $ cd hello-world
@@ -63,34 +64,40 @@ Type `code .` and this will open VSCode straight to the repository you made (hel
 $ code .
 ```
 
-Open Visual Studio code and authorize the app for use, it will always so you if you trust the authors of a reote reposity before opening it up in your computer
+Open Visual Studio code and authorize the app for use, it will always so you if you trust the authors of a reote reposity before opening it up in your computer.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/01.png)
 
 
 ---
 ## Editing code 
 
-Navigate to the explorer tab of the editor and find your read me file that we created in the last tutorial 
+Navigate to the explorer tab of the editor and find your README file that we created in the last tutorial.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/02.png)
 
-Make edits to your README file by typing in the text and code editor, I'm typing markdown text in my editor 
+Make edits to your README file by typing in the text and code editor, I'm typing markdown text in my editor. 
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/03.png)
 
-Unsaved changed will flag athe open tab or flash a (1) on the explorer icon, click cmd+s to save files
+Unsaved changed will flag the current tab or flash a (1) on the explorer icon, click `cmd/ctrl`+`s` to save files.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/04.png)
 
 ## Pushing to github
-As you save your files you will then see the (1) flag on the source control panel in your VSCode editor
-ths source control panel is an easy way to stage changes without using terminal commands. what is staging changes?[https://githowto.com/staging_and_committing]
 
-prepare you files to be committed to the remote repository by clicking the '+' sign
+As you save your files, the (1) flag will appear on the source control panel in your VSCode editor. The source control panel is a convenient way to stage changes without having to use terminal commands. [What is staging changes?](https://githowto.com/staging_and_committing_
+
+Prepare your files to be committed to the remote repository by clicking the '+'.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/05.png)
 
-After you have done that step you will see your files move up in section
+After you complete that step, your files will be moved up a section.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/06.png)
 
-After changes have been staged you should see the file move from unstages or stages, type update read me in the message box, the message box will serve as clear communication while working in teams 
+After changes have been staged, you should see the file move from unstages to stages; then, in the message box, type Update README.md; the message box will serve as clear communication while working in teams.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/09.png)
 
 Navigate to the Terminal tab at the top and click “New Terminal”
@@ -100,39 +107,41 @@ Type `git -v`  or `git —version` in your terminal to confirm if git has been i
 ```bash
 $ git -v 
 ```
-type `git push` then `return` key
-this will prompt you to sign in with GitHub
+Type `git push` then `return` key
+This will prompt you to sign-in with GitHub
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/07.png)
 
 
-after your account has been authorized, revisit the terminal tab and type `git push`
-if successful you will see a number of lines link in the image below 
+After you've authorized your account, return to the Terminal tab and type 'git push'; if successful, you'll see a number of lines linked in the image below.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/10.png)
 
+Navigate to your repository on github.com and look at the most recent push you made from your computer. Congratulations! You should see your commit message on the screen.
 
-Open your reository in github.com and view the recent push you just made from your computer. Congratulations 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/11.png)
 
 
 ## Pulling from github
 
-Click the pencil on your newly pushed read me file 
+Click the pencil on your newly pushed README.md file.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/12.png)
 
-Make edits to you read me file then commit those edits 
+Make edits to you README.md file then commit those edits.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/13.png)
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/14.png)
 
-open your VSCode editor and type 'git pull' in terminal , this will bring the remote changes to the file into your computer. pull is use if anyone is ever working with a product on the same team and wants to do something to the file 
+Open your VSCode editor and type 'git pull' in the terminal to download the remote changes to the file. Git pull is used when multiple people on the same team are working on the same product and want to make changes to the project.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/15.png)
 
 
 ## Making a new branch in terminal 
 
-'git branch' check the current branch you are one, we are on main. 
+Type 'git branch' to see which branch you are on; we are on main.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/16.png)
 
