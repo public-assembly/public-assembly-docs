@@ -139,37 +139,60 @@ Open your VSCode editor and type 'git pull' in the terminal to download the remo
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/15.png)
 
 
-## Making a new branch in terminal 
+## Making a new branch in Terminal 
 
 Type 'git branch' to see which branch you are on; we are on main.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/16.png)
 
 
+Type 
+
+```
+git push --set -upstream origin newbranch
+```
+This creates a new branch right in terminal. 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/17.png)
 
-
+Refresh your GitHub to confirm uf a new branch has been made.
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/18.png)
 
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/19.png)
 
 
+## Opening an Issue 
+
+Clik on the Issues tab 
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/20.png)
 
 
+Edit the subject and description to your suggestions and click `Submit a new Issue`.
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/21.png)
 
 
+After it has been submitted you can view all open issues in the issues tab. 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/22.png)
 
 
+> Note: Open issues can turn into new branches and new pull requests in a few easy steps so that's what we're going to do. 
+
+Create new branch and rename it to something like issue solution. 
+Copy and paste these lines into your VSCode Terminal. 
+
+```
+git fetch origin 
+git checkout /issue-solution 
+``` 
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/23.png)
 
-
+This is how the output should look like. 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/24.png)
 
 
+On this branch you have the freedom to edit the README.md and merge the branch back into GitHub. 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/25.png)
 
 
@@ -178,7 +201,7 @@ Type 'git branch' to see which branch you are on; we are on main.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/27.png)
 
-## Opening an Issue 
+
 
 ## **Further Resources**
 
