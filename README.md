@@ -8,7 +8,7 @@
 ## Guides [WIP]
 
 - [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/assemble-package.md)
-- [Wallet Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/wallet-setup.md)
+- [Wallet Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/wallet-setup.md)
 - [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/getting-started-with-github.md)
 - [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/vercel-setup.md)
 - [Visual Studio Code Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/visual-studio-code-setup.md)
