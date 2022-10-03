@@ -122,13 +122,13 @@ Navigate to your repository on github.com and look at the most recent push you m
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/11.png)
 
 
-## Pulling from github
+## Pulling from GitHub
 
 Click the pencil on your newly pushed README.md file.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/12.png)
 
-Make edits to you README.md file then commit those edits.
+Make edits to your README.md file then commit those edits.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/13.png)
 
