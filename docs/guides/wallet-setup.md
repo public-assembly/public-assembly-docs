@@ -69,9 +69,7 @@ Your wallet connects you to new applications and allows you to truly own your da
     Your *12 Word* **Secret Backup Phrase** backs up your account.
     
         Without this phrase, you can't restore your MetaMask account or login into it on another device.
-    
-
-        Consider storing these words in a password manager, or downloading a file containing the phrase to a secure **external** disk.
+        Consider storing these words in a password manager, or downloading a file containing the phrase to a secure external disk.
     
 
     *(Do not store this on your desktop.  If someone steals, hacks, or finds your computer, they may access your MetaMask wallet.)*
