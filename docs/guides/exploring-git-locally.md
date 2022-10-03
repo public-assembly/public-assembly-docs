@@ -12,6 +12,16 @@ In order to begin this guide, you must have completed the following:
 [Vercel Setup]
 [Visual Studio Code Setup]
 
+## What You'll Do
+
+- Clone a repository 
+- Edit code
+- Push to GitHub
+- Pull from GitHub
+- Make a branch from Terminal
+- Make your first Issue
+-   Optional: turning your issue into a new branch.
+
 ---
 
 ## TUTORIAL
@@ -213,6 +223,7 @@ On this branch you have the freedom to edit the README.md and merge the branch b
 
 
 Congratulations, you finished the Exploring Git Locally tutorial.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/27.png)
 
 
