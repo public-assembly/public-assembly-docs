@@ -13,6 +13,7 @@
 - [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/vercel-setup.md)
 - [Visual Studio Code Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/visual-studio-code-setup.md)
 - [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git.md) 
+- [Exploring Git (in Terminal)](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git.md) 
 - [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/installing-node.md)
 
 ## Documentation
