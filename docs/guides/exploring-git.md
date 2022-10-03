@@ -200,7 +200,7 @@ A merge pull request event can be found under conversations. After merging,  th
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/Screen%20Shot%202022-10-02%20at%209.09.36%20AM.png)
 
-Navigate to the files changed tab 
+Navigate to the `Files changed` tab 
 
 Red mean deletions of lines of code. 
 Green mean code has been modified or added.
