@@ -27,7 +27,7 @@ Open a new terminal window (CMD+Spacebar search terminal or 'F4' Search terminal
 
 Change the current working directory to the folder location where you want the cloned directory. *(cd means change directory, try Desktop if you have never done this before)* 
 
-For example I keep all of my VSCode repo on my Desktop in a folder called VSCode
+For example, I keep all of my VSCode repo on my `Desktop` in a folder called `VSCode`.
 
 ```bash
 $ cd Desktop
@@ -40,7 +40,7 @@ Type `git clone`, and then paste the URL you copied earlier.
 $ git clone https://github.com/YOUR-USERNAME/hello-world
 ```
 
-Press **Enter** to create your local clone. You should see a message like the one below
+Press **Enter** to create your local clone. You should see a message like the one below.
 
 ```bash
 $ git clone https://github.com/YOUR-USERNAME/hello-world
@@ -58,7 +58,7 @@ Change (cd) to the newly cloned repository folder as the current working direct
 $ cd hello-world
 ```
 
-Type `code .` and this will open VSCode straight to the repository you made (hello-world) this is now connected to both internet and your to your local computer
+Type `code .` and this will open VSCode straight to the repository you made (hello-world) this is now connected to both internet and your to your local computer.
 
 ```bash
 $ code .
@@ -152,9 +152,11 @@ Type
 git push --set -upstream origin newbranch
 ```
 This creates a new branch right in terminal. 
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/17.png)
 
 Refresh your GitHub to confirm uf a new branch has been made.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/18.png)
 
 
@@ -169,10 +171,12 @@ Clik on the Issues tab
 
 
 Edit the subject and description to your suggestions and click `Submit a new Issue`.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/21.png)
 
 
 After it has been submitted you can view all open issues in the issues tab. 
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/22.png)
 
 
@@ -189,10 +193,12 @@ git checkout /issue-solution
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/23.png)
 
 This is how the output should look like. 
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/24.png)
 
 
-On this branch you have the freedom to edit the README.md and merge the branch back into GitHub. 
+On this branch you have the freedom to edit the README.md and merge the branch back into GitHub.
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/25.png)
 
 
