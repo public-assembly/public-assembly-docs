@@ -1,9 +1,16 @@
 # Exploring Git Locally
 > **Source Control on Visual Studio Code [WIP]**
 
+/ video here 
+
 ## Introduction 
 
-## Prerequisites 
+## Prerequisites
+In order to begin this guide, you must have completed the following:
+
+[Getting Started with GitHub]
+[Vercel Setup]
+[Visual Studio Code Setup]
 
 ---
 
@@ -205,9 +212,11 @@ On this branch you have the freedom to edit the README.md and merge the branch b
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/26.png)
 
 
+Congratulations, you finished the Exploring Git Locally tutorial.
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/27.png)
 
 
+--- 
 
 ## **Further Resources**
 
