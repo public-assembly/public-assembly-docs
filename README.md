@@ -7,20 +7,20 @@
 
 ## Guides [WIP]
 
-- [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/assemble-package.md)
+- [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/assemble-package.mdd)
 - [Wallet Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/wallet-setup.md)
-- [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/getting-started-with-github.md)
-- [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/vercel-setup.md)
-- [Visual Studio Code Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/visual-studio-code-setup.md)
-- [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/exploring-git.md) 
-- [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/installing-node.md)
+- [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/getting-started-with-github.md)
+- [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/vercel-setup.md)
+- [Visual Studio Code Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/visual-studio-code-setup.md)
+- [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git.md) 
+- [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/installing-node.md)
 
 ## Documentation
 
 - [Curation Protocol] [WIP]
 - [OS Modular Package Library] [WIP]
 - [OS Modular Audio Player Library] [WIP]
-- [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/glossary.md)
+- [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/glossary.md)
 
 ## Communcation
 
