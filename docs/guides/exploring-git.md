@@ -178,47 +178,44 @@ These changes will be made only to the README file on your `readme-edits` bran
 
 ## **Creating your first pull request**
 
-After your changes have been committed you can then navigate to the repository origin by click hello world next to your name
+After your changes have been saved, commited, click "hello-world" next to your name to go to the repository origin.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/13.png)
 
-Here you will see a message that says ther had been recent pushes on the reade-edits branhc and will prompt you to compare and pulll request 
+Here, you will see a message that says there have been recent pushes on the readme-edits branch and will ask you to compare and pull request. 
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/14.png)
 
-Clicking 'create pull request' starts the process to blending the final edits that you did on the readme-edits branch with the main branch. While working in teams you can keep on perfect the branch as long as possible because merging to main affects the whole deployment of the application.
+When you click "create pull request," the process of merging the last changes you made on the readme-edits branch with the main branch begins. When working in a team, you can keep improving the branch as long as possible because merging to main changes how the whole application is deployed.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/15.png)
 
-After you have created your first pull request you will be able to find all pending requests in the pull request tab on the repository front page
+Once you've made your first pull request, you can find all pending requests in the pull request tab on the front page of the repository.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/16.png)
 
-click the update readme.edit pull request.
+Select the Update README.md. 'Edit pull request'
 
-under conversations youll see a merge pull request event, this transfers the contents in the readmeedit branch into the main branch
+A merge pull request event can be found under conversations. After merging,  the contents of the readme-edit branch are transferred to the main branch.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/Screen%20Shot%202022-10-02%20at%209.09.36%20AM.png)
 
-navigate to the files changed tab 
+Navigate to the files changed tab 
 
-red changes mean deletions of lines of code
-green files mean everything thats bee changed
+Red mean deletions of lines of code. 
+Green mean code has been modified or added.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/17.png)
 
-
-under conversations tab click merge pull request then click confirm because this actual cannot be undone.
+Click merge pull request under the conversations tab, then confirm because this action cannot be reversed.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/Screen%20Shot%202022-10-02%20at%209.11.04%20AM.png)
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/Screen%20Shot%202022-10-02%20at%209.13.46%20AM.png)
 
-
-You have the option to delete any unused or fully merged branches, but keeping them as a point of reference for further work is common. 
+You can delete any unused or fully merged branches, but keeping them as a reference for future work is common.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20git%20on%20github/19.png)
-
 
 
 
