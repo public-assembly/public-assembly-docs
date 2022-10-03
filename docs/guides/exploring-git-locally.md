@@ -84,9 +84,9 @@ Unsaved changed will flag the current tab or flash a (1) on the explorer icon, c
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Exploring%20Git%20in%20VSCode%20and%20terminal/04.png)
 
-## Pushing to github
+## Pushing to GitHub
 
-As you save your files, the (1) flag will appear on the source control panel in your VSCode editor. The source control panel is a convenient way to stage changes without having to use terminal commands. [What is staging changes?](https://githowto.com/staging_and_committing_
+As you save your files, the (1) flag will appear on the source control panel in your VSCode editor. The source control panel is a convenient way to stage changes without having to use terminal commands. [What is staging changes?](https://githowto.com/staging_and_committing)
 
 Prepare your files to be committed to the remote repository by clicking the '+'.
 
