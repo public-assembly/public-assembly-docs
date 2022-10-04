@@ -36,7 +36,7 @@ Neosound enables everyone to listen to free music online while also enable other
 
 ## How to use Neosound as a Listener:
 
-To begin listening, locate the navigation bar and click ‘Listen’. A login is not requires to listen to the playlist, you’ve already made the decision. 
+To begin listening, locate the navigation bar and click ‘Listen’. A login is not required to listen to the playlist, you’ve already made the decision!
 
 Another emphasis of Neosound has been on creator sovereignty and universal access. Music NFTs have created a new revenue stream for artist, corporation and celebrities over the last to years. With this tool artists can do just that and further develop a digital asset library to reach a new generation of collectors and investors.  
 
@@ -51,7 +51,7 @@ On Neosound a curation pass is required to add to the player. A curation pass is
 
 To begin curating, locate the ‘Curate’ tab in the navigation bar, click on it and connect your wallet so the pop-up module can verify if you hold a pass. 
 
-After this is done, you can paste the music NFT contract address of the song you want to curate. This address can be found in places like Full Details on platforms like Zora, OpenSea or Variable. Currently Neosound only accepts ER721s for accepted music NFT formats. (including Zora V3 NFT editions). If you would like to create a music NFT edition head over to the create editions tutorial here. 
+After this is done, you can paste the music NFT contract address of the song you want to curate. This address can be found in places like Full Details on platforms like Zora, OpenSea or Rarible. Currently Neosound only accepts ER721s for accepted music NFT formats. (including Zora V3 NFT editions). If you would like to create a music NFT edition head over to the create editions tutorial [here]. 
 
 Upon pasting the contract address in the module, click ‘return/enter’ and you’ll be prompted to sign and complete the transaction in your Web 3 wallet. Shortly after your song will be queued at the top of the playlist. 
 
