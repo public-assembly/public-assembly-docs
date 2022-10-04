@@ -22,11 +22,13 @@ There are so many options for independent artists to foster their audience or co
 
 - Wallet Setup
 - Create Zora Editions
+    - Create Music NFT Edition
 - How to interact with the listening pages if you are a:
     - [ ]  Listener / Collector
     - [ ]  Curator
     - [ ]  Contract Owner
 - Deploy your own music player
+    - Create Curation Pass
 
 ---
 
