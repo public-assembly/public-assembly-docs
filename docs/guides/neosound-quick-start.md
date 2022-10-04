@@ -83,7 +83,7 @@ There’s a curation contract at the heart of Neosound. The underlying curation 
 
 ![listing]()
 
-The contract method getListings() binds Listings together into a composable array that can be added to and subtracted from. This method also makes the curation contract gas-efficient because after the listings are put together, no data is stored on-chain.
+The contract method getListings() binds Listings together into a composable array that can be added to and subtracted from. This method also makes the curation contract gas-efficient because after the listings are assembled, no data is stored on-chain.
 
 ![Arena image]()
 
