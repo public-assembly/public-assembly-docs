@@ -19,8 +19,6 @@ Neosound provides a free online listening experience. The music on the site can 
 
 ### Modular music player
 
-/photo
-
 To begin listening, locate the navigation bar and click ‘Listen’. No login is required to listen…you’ve already made the decision!
 
 /photo
