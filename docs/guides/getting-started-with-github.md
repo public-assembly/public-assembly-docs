@@ -85,6 +85,5 @@ You'll be directed to a clone of the assemble-package template with al of the sa
 ## **Further Resources**
 [GitHub crash course](https://www.youtube.com/watch?v=g6JKWnz9YII)
 
---
 
 ---
