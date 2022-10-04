@@ -2,64 +2,96 @@
 
 >  Music brings people together.
 
-/ video 
+// What is neosound 
+// Website overview 
 
-- What is Neosound video
+## Introduction
 
-- Website Overview video
+Neosound is both a template and living example --- for how to use open-source + modular building blocks to create a new way to listen to, share, and publish music online. The player is made with a modular design and uses a curation protocol to expressly draw and assemble data from the Ethereum blockchain. Therefore, none of the music is hosted exclusively on Neosound, making it a fully decentralized player as well. That means that this web application’s design can be used by anyone to make anything they desire. You can either only listen to the music or create your own music player for your portfolio or record store.
 
-## **Introduction**
-
-Today, we are exploring tools such as Neosound that leverage our technology and expand our "circles of trust," allowing for new models of coordination + creation to take stage. Neosound is a new method for listening to, sharing, and publishing music online. The player is made with a modular design and uses a curation protocol to expressly draw and assemble data from the Ethereum blockchain. Therefore, none of the music is hosted exclusively on Neosound, making it a fully decentralized player as well. That means that this web application’s design can be used as a template by anyone to make anything they desire. You can either only listen to the music or create your own music player for your portfolio or record store.
-
-There are so many options for independent artists to foster their audience or community these days, and it can be overwhelming for a novice artist to approach Web 3 music as a lone creative. So, in response, Neosound has provided a living example of how that can change for artists and in the way they distribute art. 
-
-## **Prerequisites**
-
-- None!
-
-## **What You’ll Do**
-
-- Wallet Setup
-- Create Zora Editions
-    - Create Music NFT Edition
-- How to interact with the listening pages if you are a:
-    - [ ]  Listener / Collector
-    - [ ]  Curator
-    - [ ]  Contract Owner
-- Deploy your own music player
-    - Create Curation Pass
-
----
+There are so many options for independent artists to foster their audience or community these days, and it can be overwhelming for a novice artist to approach Web 3 music as a lone creative. So, in response, Neosound strives to spark conversations on how that changes for artists and the way they distribute art.
 
 ## What is the cost to use Neosound?
 
-Neosound enables everyone to listen to free music online while also enabling others to deploy contracts and sites for free. (outside of associated network fees).
+Neosound provides a free online listening experience. The music on the site can be collected for a fee, and it also provides the ability to deploy curation contracts to power your own custom site from the factory page.
 
-## How to use Neosound as a Listener:
+## Using Neosound as a Listener:
 
-To begin listening, locate the navigation bar and click ‘Listen’. A login is not required to listen to the playlist; you’ve already made the decision!
+### Modular music player
 
-Another emphasis of Neosound has been on creator sovereignty and universal access. Over the last two years, music NFTs have created a new revenue stream for artists, corporations, and celebrities. With this tool, artists can do just that and further develop a digital asset library to reach a new generation of collectors and investors.
+/photo
 
-With that in mind, you are able to mint tracks by clicking on the album cover or song title. (Depending on which display you prefer.)
+To begin listening, locate the navigation bar and click ‘Listen’. No login is required to listen…you’ve already made the decision!
 
-After that, the music data is shown with token information. The module will then prompt you to connect to a Web 3 wallet to complete the transactions 
+/photo
 
+Another emphasis of Neosound has been on creator sovereignty and universal access. Over the last two years, music NFTs have created a new revenue stream for artists, corporations, and celebrities. With this tool, artists can build on that and further develop a digital asset library to reach a new generation of fans and investors. 
+With that in mind, you are able to mint tracks by clicking on the album cover or song title.
 
-## How to curate on Neosound:
+/photo
 
-On Neosound, a curation pass is required to add to the player. A curation pass is an NFT that lives in your Web 3 wallet that grants similar functionality to token-gated perks. Inspired directly from applications like Present Material, there is a set number of available passes which are awarded or minted by communities (even though the possibilities are endless). These passes are distributed by contract owners, who will be discussed further below.
+The music data will be shown with the token information, and you will be prompted to connect to a Web 3 wallet to complete the transactions.
 
-To start curating, go to the navigation bar and click on the "Curate" tab. Then, connect your wallet so the pop-up module can check if you have a pass.
+/photo
 
-After this is done, you can paste the music NFT contract address of the song you want to curate. This address can be found in places like Full Details on platforms like Zora, OpenSea, or Rarible. Currently, Neosound only accepts ER721s for accepted music NFT formats. (Zora V3 NFT editions are included.) If you would like to create a music NFT edition, head over to the Create Zora Editions tutorial here. 
+## Using Neosound as a Curator:
 
-Upon pasting the contract address in the module, click 'return/enter’ and you’ll be prompted to sign and complete the transaction in your Web 3 wallet. Shortly after, your song will be queued at the top of the playlist. 
+Accessing the curation functionality that allows you to update the on-chain playlist that feeds into Neosound requires the ownership of a “curation pass”. A curation pass is an NFT lives in your Web 3 wallet that grants token-gated perks. Inspired by sites like Present Material, curation passes can be distributed by individuals or communities (whoever owns the curation contract) in whatever manner they please.
+
+/photo
+
+A good way to do this is by using ZORA create tools that allow edition contract owners to airdrop tokens. Currently, Neosound is only compatible with ZORA NFT collections — which happen to be ERC-721s. However, the underlying architecture can be easily adjusted to swap in other ERC-721 implementations or NFT standards. If you would like to create a music NFT edition, head over to the create editions tutorial here.
+
+> Where can I find the curator pass for Neosound 
+	>	
+ 
+### Adding song listings
+
+To begin curating, locate the ‘Curate’ tab in the navigation bar, click on it, and connect your wallet so the pop-up module can verify if you hold a pass. 
+
+/photo
+
+After this is done, paste the music NFT contract address of the song you want to curate. This address can be found in places like details on platforms like Zora, OpenSea, or Rarible.
+
+/photo
+
+Upon pasting the contract address in the module, click ‘return/enter’ and you’ll be prompted to sign and complete the transaction in your wallet. Shortly after the transaction confirms, your song will be queued at the top of the playlist.
+
+/photo
 
 > Note: Only associated curators of the specific song and site contract owners will be able to remove or reorder a song listing. Other users can only interact with the tracks they have input. (ex. listening, minting, still open to all).
 
-Another cool thing about this build is that the tracks are also tagged by the ETH address or ENS name, which is added to the track listing (to see exactly who contributed what, and perhaps make fun of their questionable choices).
+Another cool thing about this build is that the tracks are also tagged by the ETH address or ENS name that added the track listing (to see exactly who contributed what, and perhaps make fun of their questionable choices).
+
+/photo
+
+## Using Neosound to Deploy
+
+There’s a curation contract at the heart of Neosound. The underlying curation protocol reacts in tandem with the simple design of the site. There are methods whereby every song on the site is a ‘Listing’, and each ‘Listing’ is actually an ERC-721 of its own. These Listings are minted and then the tokenID’s of the Listing are soulbound to the song curator’s address.
+
+/photo 
+
+The contract method getListings() binds Listings together into a composable array that can be added to and subtracted from. This method also makes the curation contract gas-efficient because after the listings are put together, no data is stored on-chain.
+
+/photo
+
+So yes, even the playlist was “generated by the blockchain.”
+
+### Create your contract
+
+To use Neosound to make a custom curation contract, go to the navigation bar and click on the "Deploy" tab.
+
+/photo 
+
+Follow the detailed onboarding instructions and enter the inputs as desired.
+
+---
+
+Further Reading
+
+---
+ 
+ 
 
 
 
