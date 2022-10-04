@@ -120,6 +120,8 @@
 - **Mainnet** - short for main network, this is a main layer 1 blockchain, as opposed to a *testnet* or *layer 2* solution.
 *See also: Blockchain, Ethereum, Testnet*
 
+- **Mint** - 
+
 - **Modular** - the degree to which a system's components may be separated & recombined. Modular blockchains are the result of separating core components of a single blockchain & running them on separate layers.
 *See also: Blockchain, Component*
 
