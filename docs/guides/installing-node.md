@@ -65,7 +65,8 @@ type node -v and click enter to confirm the version of node that you have on you
 if you would like to install a different version of node all you would have to do is install copy and paste this line of code with the version number you're looking for.
 
 ---
+
 ## **Further Resources**
-![NVM](https://youtu.be/gH8C8Wc_BUk)
+[NVM](https://youtu.be/gH8C8Wc_BUk)
 
 ---
