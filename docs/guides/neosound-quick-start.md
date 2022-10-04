@@ -45,7 +45,7 @@ With that in mind, you are able to mint tracks by clicking on the album cover or
 After that the music data is shown with token information, the module will then prompt you to connect to a Web 3 wallet to complete the transactions 
 
 
-## How to curate Neosound: 
+## How to curate on Neosound: 
 
 On Neosound a curation pass is required to add to the player. A curation pass is an NFT lives in your Web 3 wallet that grants similar functionality to token-gated perks. Inspired directly from applications like Present Material, there are a set amount of available passes which are awarded or minted by communities (even though the possibilities are endless). These passes are distributed by contract owners, who will be discussed further below.
 
