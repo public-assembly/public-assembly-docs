@@ -65,7 +65,7 @@ After this is done, paste the music NFT contract address of the song you want to
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/04-A-03-CurateModal-Connected.png)
 
-Upon pasting the contract address in the module, click ‘return/enter’ and you’ll be prompted to sign and complete the transaction in your wallet. Shortly after the transaction confirms, your song will be queued at the top of the playlist.
+Upon pasting the contract address in the module, click ‘Add’ and you’ll be prompted to sign and complete the transaction in your wallet. Shortly after the transaction confirms, your song will be queued at the top of the playlist.
 
 ![gif]
 
