@@ -92,7 +92,7 @@ The contract method getListings() binds Listings together into a composable arra
 
 To use Neosound to make a custom curation contract, go to the navigation bar and click on the "Deploy" tab.
 
-![img]()
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/click%20deploy.png)
 
 Follow the detailed onboarding instructions and enter the inputs as desired.
 
