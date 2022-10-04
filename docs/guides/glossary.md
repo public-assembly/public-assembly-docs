@@ -225,9 +225,9 @@
 
 - **Web2** - this is “read-write web”. Think blogs & social media. **Sign in with Google** | **Sign in with Facebook** | **Sign in with Twitter**
 
-- **web3** - this is “read-write-trust web.” The next iteration of the web being ushered in as we speak, leveraging *blockchain*. **Connect with Wallet**
+- **Web3** - this is “read-write-trust web.” The next iteration of the web being ushered in as we speak, leveraging *blockchain*. **Connect with Wallet**
 *See also: Wallet*
 
 ## **Z**
-- **Zora** -  a decentralized protocol/DAO where anyone can permissionlessly buy & sell NFTs. We love the ZORBs!
+- **ZORA** -  a decentralized protocol/DAO where anyone can permissionlessly buy & sell NFTs. We love the ZORBs!
 *See also: DAO, Decentralized, NFT, Protocol*
