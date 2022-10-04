@@ -83,25 +83,28 @@ There’s a curation contract at the heart of Neosound. The underlying curation 
 ![image](https://user-images.githubusercontent.com/91724117/193858474-455171a5-ac02-4363-bf7c-b7c84542a660.png)
 [source](https://github.com/public-assembly/curation-protocol/blob/6eb6d8d5e824cdf68866d7c9c676b8d3d15bed45/src/interfaces/ICurator.sol)
 
-The contract method getListings() binds Listings together into a composable array that can be added to and subtracted from. This method also makes the curation contract gas-efficient because after the listings are assembled, no data is stored on-chain.
+  The contract method getListings() binds Listings together into a composable array that can be added to and subtracted from.
+  This  method also makes the curation contract gas-efficient because after the listings are assembled, no data is stored on-chain.
 
-![image](https://user-images.githubusercontent.com/91724117/193859332-9e17a38d-d2de-4e45-b8ed-2a15aa1201d6.png)
+  ![image](https://user-images.githubusercontent.com/91724117/193859332-9e17a38d-d2de-4e45-b8ed-2a15aa1201d6.png)
+  [source]
 
-![Architecture drawing]()
+  ![Architecture drawing]()
 
 ### What is a Factory?
 
   In the context of blockchain, a factory is a smart contract that deploys other smart contracts.
   
   ![image](https://user-images.githubusercontent.com/91724117/193864948-f5de1bd8-d2ee-4bea-a2b8-b2b9cac7efb2.png)
+  [sources
 
 ### Create your contract
 
-To use Neosound to make a custom curation contract, go to the navigation bar and click on the "Deploy" tab.
+  To use Neosound to make a custom curation contract, go to the navigation bar and click on the "Deploy" tab.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/click%20deploy.png)
 
-Follow the detailed onboarding instructions and enter the inputs as desired.
+  Follow the detailed onboarding instructions and enter the inputs as desired.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/01-A-03-Start.png)
 
