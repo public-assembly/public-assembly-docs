@@ -1,5 +1,6 @@
 # Getting Started with Neosound
 
+>  Music brings people together.
 
 / video 
 
