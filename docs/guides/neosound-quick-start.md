@@ -63,7 +63,7 @@ Another cool thing about this build is that the tracks are also tagged by the ET
 
 /photo
 
-## Using Neosound to Deploy
+## Using Neosound to Deploy:
 
 There’s a curation contract at the heart of Neosound. The underlying curation protocol reacts in tandem with the simple design of the site. There are methods whereby every song on the site is a ‘Listing’, and each ‘Listing’ is actually an ERC-721 of its own. These Listings are minted and then the tokenID’s of the Listing are soulbound to the song curator’s address.
 
