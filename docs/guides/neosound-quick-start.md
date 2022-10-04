@@ -7,7 +7,7 @@
 
 ## Introduction
 
-//photo 
+![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/02-B-02-Listen-Grid-Hover.png)
 
 Neosound is both a template and living example --- for how to use open-source + modular building blocks to create a new way to listen to, share, and publish music online. The player is made with a modular design and uses a curation protocol to expressly draw and assemble data from the Ethereum blockchain. Therefore, none of the music is hosted exclusively on Neosound, making it a fully decentralized player as well. That means that this web application’s design can be used by anyone to make anything they desire. You can either only listen to the music or create your own music player for your portfolio or record store.
 
