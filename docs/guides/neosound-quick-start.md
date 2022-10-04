@@ -33,8 +33,7 @@ To begin listening, locate the navigation bar and click ‘Listen’. No login i
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/02-A-02-Listen-List-Hover.png)
 
-Another emphasis of Neosound has been on creator sovereignty and universal access. Over the last two years, music NFTs have created a new revenue stream for artists, corporations, and celebrities. With this tool, artists can build on that and further develop a digital asset library to reach a new generation of fans and investors. 
-With that in mind, you are able to mint tracks by clicking on the album cover or song title.
+Another emphasis of Neosound has been on creator sovereignty and universal access. Over the last two years, music NFTs have created a new revenue stream for artists, corporations, and celebrities. Artists can build on that with Neosound and further develop a digital asset library to reach a new generation of fans and investors. With that in mind, you are able to mint tracks by clicking on the album cover or song title.
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/03-A-01-A-View%20Details-Select.png)
 
