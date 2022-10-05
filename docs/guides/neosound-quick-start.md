@@ -89,14 +89,13 @@ There’s a curation contract at the heart of Neosound. The underlying curation 
   ![image](https://user-images.githubusercontent.com/91724117/193859332-9e17a38d-d2de-4e45-b8ed-2a15aa1201d6.png)
   [source]
 
-  ![Architecture drawing]()
 
 ### What is a Factory?
 
   In the context of blockchain, a factory is a smart contract that deploys other smart contracts.
   
   ![image](https://user-images.githubusercontent.com/91724117/193864948-f5de1bd8-d2ee-4bea-a2b8-b2b9cac7efb2.png)
-  [sources
+  [source]
 
 ### Create your contract
 
