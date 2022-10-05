@@ -51,8 +51,8 @@ Accessing the curation functionality that allows you to update the on-chain play
 
 A good way to do this is by using [ZORA create tools](create.zora.co) that allow edition contract owners to airdrop tokens. Currently, Neosound is only compatible with ZORA NFT collections — which happen to be ERC-721s. However, the underlying architecture can be easily adjusted to swap in other ERC-721 implementations or NFT standards. If you would like to create a music NFT edition, head over to the create editions tutorial here.
 
-> Where can I find the curator pass for Neosound 
-  https://create.zora.co/collections/0xe276af76d8cf8646e2b4ae94c549fb0bbf198c1d
+> Where can I find the curator pass for Neosound?
+      https://create.zora.co/collections/0xe276af76d8cf8646e2b4ae94c549fb0bbf198c1d
  
 ### Adding song listings
 
