@@ -66,8 +66,6 @@ After this is done, paste the music NFT contract address of the song you want to
 
 Upon pasting the contract address in the module, click ‘Add’ and you’ll be prompted to sign and complete the transaction in your wallet. Shortly after the transaction confirms, your song will be queued at the top of the playlist.
 
-![gif]
-
 > Note: Only associated curators of the specific song and site contract owners will be able to remove or reorder a song listing. Other users can only interact with the tracks they have input. (ex. listening, minting, still open to all).
 
 Another cool thing about this build is that the tracks are also tagged by the ETH address or ENS name that added the track listing.
