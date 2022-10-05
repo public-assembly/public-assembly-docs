@@ -47,12 +47,12 @@ The music data will be shown with the token information, and you will be prompte
 
 Accessing the curation functionality that allows you to update the on-chain playlist that feeds into Neosound requires the ownership of a “curation pass”. A curation pass is an NFT lives in your Web 3 wallet that grants token-gated perks. Inspired by sites like Present Material, curation passes can be distributed by individuals or communities (whoever owns the curation contract) in whatever manner they please.
 
-![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/.png)
+![img](https://user-images.githubusercontent.com/91724117/194176577-9458b8c3-302c-4e55-bc90-c027ea753cfa.png)
 
 A good way to do this is by using [ZORA create tools](create.zora.co) that allow edition contract owners to airdrop tokens. Currently, Neosound is only compatible with ZORA NFT collections — which happen to be ERC-721s. However, the underlying architecture can be easily adjusted to swap in other ERC-721 implementations or NFT standards. If you would like to create a music NFT edition, head over to the create editions tutorial here.
 
 > Where can I find the curator pass for Neosound 
-
+  https://create.zora.co/collections/0xe276af76d8cf8646e2b4ae94c549fb0bbf198c1d
  
 ### Adding song listings
 
