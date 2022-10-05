@@ -96,7 +96,9 @@ Your wallet connects you to new applications and allows you to truly own your da
 
 - [Get Started with Rainbow](https://learn.rainbow.me/get-started-with-rainbow)
 
-    
+
+---
+
 ## **How to Acquire ETH**
 
 ### **Faucet ETH**
