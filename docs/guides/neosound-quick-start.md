@@ -9,7 +9,7 @@
 
 ## Introduction
 
-![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/02-B-02-Listen-Grid-Hover.png)
+![image](https://user-images.githubusercontent.com/91724117/194314147-7b655a32-9a56-43d8-9097-be8b9e3c29be.png)
 
 Neosound is both a template and living example --- for how to use open-source + modular building blocks to create a new way to listen to, share, and publish music online. 
 
