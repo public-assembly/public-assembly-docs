@@ -86,6 +86,8 @@ There’s a curation contract at the heart of Neosound. The underlying curation 
 
   ![image](https://user-images.githubusercontent.com/91724117/193859332-9e17a38d-d2de-4e45-b8ed-2a15aa1201d6.png)
   [source]
+  
+![img](https://user-images.githubusercontent.com/91724117/194313502-3447c3f8-dd91-4914-9d72-6333a0f284cf.png)
 
 
 ### What is a Factory?
