@@ -76,12 +76,12 @@ Another cool thing about this build is that the tracks are also tagged by the ET
 
 ## Using Neosound to Deploy:
 
-There’s a curation contract at the heart of Neosound. The underlying curation protocol reacts in tandem with the simple design of the site. There are methods whereby every song on the site is a ‘Listing’, and each ‘Listing’ is actually an ERC-721 of its own. These Listings are minted and then the tokenID’s of the Listing are soulbound to the song curator’s address.
+There’s a curation contract at the heart of Neosound. The underlying curation protocol reacts in tandem with the simple design of the site. There are methods whereby every song on the site is a `Listing`, and each `Listing` is actually an ERC-721 of its own. These Listings are minted and then the tokenID’s of the Listing are soulbound to the song curator’s address.
 
 ![image](https://user-images.githubusercontent.com/91724117/193858474-455171a5-ac02-4363-bf7c-b7c84542a660.png)
 [source](https://github.com/public-assembly/curation-protocol/blob/6eb6d8d5e824cdf68866d7c9c676b8d3d15bed45/src/interfaces/ICurator.sol)
 
-  The contract method getListings() binds Listings together into a composable array that can be added to and subtracted from.
+  The contract method `getListings()` binds Listings together into a composable array that can be added to and subtracted from.
   This  method also makes the curation contract gas-efficient because after the listings are assembled, no data is stored on-chain.
 
   ![image](https://user-images.githubusercontent.com/91724117/193859332-9e17a38d-d2de-4e45-b8ed-2a15aa1201d6.png)
