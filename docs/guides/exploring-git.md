@@ -32,12 +32,16 @@ In order to begin this guide, you must have completed the following:
 
 Click here to download the latest (**2.37.3**) **64-bit** version [https://git-scm.com/download/mac](https://git-scm.com/download/mac)
 
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20and%20homebrew/01.png)
 
 Navigate to homebrew and install in your terminal if you don't already have the package manager on your operating system. Here you will copy the link...
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20and%20homebrew/02.png)
 
-Open termnal in your launchpad or hit the 'F4' key on your keyboard and type terminal. 
+Open terminal in your launchpad or hit the 'F4' key on your keyboard and type terminal. 
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/exploring-git-assets/Install%20git%20and%20homebrew/03.png)
 
