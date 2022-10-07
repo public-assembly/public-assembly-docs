@@ -1,7 +1,8 @@
 # Getting Started with GitHub
-## **Introduction**
 
-[https://www.loom.com/share/91ee45633a41416ba917275910ee1653](https://www.loom.com/share/91ee45633a41416ba917275910ee1653)
+[[https://www.loom.com/share/91ee45633a41416ba917275910ee1653](https://www.loom.com/share/91ee45633a41416ba917275910ee1653)
+
+## **Introduction**
 
 GitHub is an increasingly popular programming resource used for code sharing. It's a social networking site for programmers
 
