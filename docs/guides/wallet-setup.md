@@ -163,7 +163,7 @@ Click "Buy" in your MetaMask and it should take you to this pop up.
 
 Here you will see different options on how to smoothly upload ETH into your wallet but the most important thing is that there are direct ways to upload eth through debit card or credit card.
 
-Depending on your message you may need to provide ID so please choose at your discretion
+Depending on your method, you may need to provide ID so please choose at your discretion
 
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/wallet-setup-assets/metamask/26.png)
