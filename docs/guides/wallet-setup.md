@@ -1,6 +1,12 @@
 # Wallet Setup
 
+Set Up
 [https://www.loom.com/share/dbf7ab2ede66401396d6fe30f07154af](https://www.loom.com/share/dbf7ab2ede66401396d6fe30f07154af)
+
+Buying ETH
+[https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc](https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc)
+
+Goerli Faucet
 
 ## **Introduction**
 
