@@ -1,7 +1,6 @@
 # Wallet Setup
 
-> 
-/video here
+[video](https://www.loom.com/share/dbf7ab2ede66401396d6fe30f07154af)
 
 ## **Introduction**
 
