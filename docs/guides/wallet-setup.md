@@ -7,6 +7,7 @@ Buying ETH
 [https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc](https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc)
 
 Goerli Faucet
+[https://www.loom.com/share/4b531d956249439f922ad815f78c6b01](https://www.loom.com/share/4b531d956249439f922ad815f78c6b01)
 
 ## **Introduction**
 
