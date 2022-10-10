@@ -25,13 +25,7 @@ Your wallet connects you to new applications and allows you to truly own your da
 
 - Wallet Setup
     - Option 1: **MetaMask Desktop Extension**
-        - Install **MetaMask**
-        - Secret Recovery Phrase
-        - ****How to find your Ethereum address in MetaMask****
     - Option 2: **Rainbow Wallet**
-        - Install **Rainbow Wallet**
-        - Secret Recovery Phrase
-        - ****How to find your Ethereum address in Rainbow****
 - How to acquire **ETH**
     - **Real ETH** vs. **Faucet ETH**
         - **Faucet Goerli**
