@@ -23,7 +23,7 @@ Go to [https://github.com](https://github.com), then click “Sign up”
 ![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/01.png)
 
 
-Create your username, email address, and password as requested. Then, type “n” for the ‘Email preferences’ prompt. Then click “Continue”
+Enter email address, create your username, and password as requested. Then, type “n” for the ‘Email preferences’ prompt. Then click “Continue”
 
 ![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/02.png)
 
