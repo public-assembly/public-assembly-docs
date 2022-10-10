@@ -45,12 +45,15 @@ Next, confirm the launch code sent to your email.
 ![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/05.png)
 
 Lastly, after your verify the code in your email you should be forwarded to this screen displayed below.
+
 ![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/06.png)
 
 Choose the free account plan
+
 ![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/07.png)
 
 Congratulations, you have successfully set up your GitHub account!
+
 ![Untitled](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/08.png)
 
 
