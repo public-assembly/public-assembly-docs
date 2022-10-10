@@ -1,6 +1,6 @@
 # Getting Started with GitHub
 
-[https://www.loom.com/share/4664d050e4c84f6cb45ac0b7a04d880f](https://www.loom.com/share/4664d050e4c84f6cb45ac0b7a04d880f)
+[https://www.loom.com/share/b39dcc47d5724dbb937270191fc016a9](https://www.loom.com/share/b39dcc47d5724dbb937270191fc016a9)
 
 ## **Introduction**
 
