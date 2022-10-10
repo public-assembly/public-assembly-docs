@@ -57,6 +57,7 @@ Congratulations, you have successfully set up your GitHub account!
 ## Navigating GitHub 
 
 You'll be able to find your user profile by clicking the image at the top of the page and then clicking 'Your Profile.' 
+
 ![Profile](https://github.com/public-assembly/public-assembly-docs/blob/main/static/imgs/getting-started-with-github-assets/09.png)
 
 ### Searching for organizations, people, and repositories
