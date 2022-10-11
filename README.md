@@ -19,8 +19,8 @@
 ## Documentation
 
 - [Curation Protocol] [WIP]
-- [OS Modular Package Library] [WIP]
-- [OS Modular Audio Player Library] [WIP]
+- [Modular Package Library] [WIP]
+- [Audio Player UI Library] [WIP]
 - [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/glossary.md)
 
 ## Communcation
