@@ -229,5 +229,5 @@
 *See also: Wallet*
 
 ## **Z**
-- **ZORA** -  a decentralized protocol/DAO where anyone can permissionlessly buy & sell NFTs. We love the ZORBs!
+- **ZORA** -  tools for collective imagination
 *See also: DAO, Decentralized, NFT, Protocol*
