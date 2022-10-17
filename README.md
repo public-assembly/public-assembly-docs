@@ -7,7 +7,7 @@
 
 ## Curation Protocol Quick Start 
 
-- [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/curation-protocol-quickstart)
+- [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/curation-protocol-quickstart.md)
 
 ## Guides [WIP]
 
