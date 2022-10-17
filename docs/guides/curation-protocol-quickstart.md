@@ -74,7 +74,7 @@ Experiment with UIs that incorporate curation contracts (like pulling in site co
 
 Example query screenshot
 
-[https://lh3.googleusercontent.com/N0cuAzuv69-smLhZNnCWcbxjYYTcjmln8GNxwuYb4TO5T8GrkiTdXQPPo76BInTvvRRPW_UaxertegDsv7od5lQWUjoVDPmCilcAhFaeLZ1DP8D72AqfMXxRQUnlsqCLjr2Qx0KAgNOzTgX_iW2XnVitauDHMnBpGj0tHYwQyVo0oqDUc4FzW-5vuA](https://lh3.googleusercontent.com/N0cuAzuv69-smLhZNnCWcbxjYYTcjmln8GNxwuYb4TO5T8GrkiTdXQPPo76BInTvvRRPW_UaxertegDsv7od5lQWUjoVDPmCilcAhFaeLZ1DP8D72AqfMXxRQUnlsqCLjr2Qx0KAgNOzTgX_iW2XnVitauDHMnBpGj0tHYwQyVo0oqDUc4FzW-5vuA)
+![image](https://user-images.githubusercontent.com/91724117/196300670-c0d520d4-def7-488a-bf84-708d3411976b.png)
 
 Example query code
 
