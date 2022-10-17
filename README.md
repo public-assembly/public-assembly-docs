@@ -5,6 +5,10 @@
 
 - [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/neosound-quick-start.md)
 
+## Curation Protocol Quick Start 
+
+- [Get started](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/curation-protocol-quickstart)
+
 ## Guides [WIP]
 
 - [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/assemble-package.md)
@@ -18,9 +22,7 @@
 
 ## Documentation
 
-- [Curation Protocol] [WIP]
-- [Modular Package Library] [WIP]
-- [Audio Player UI Library] [WIP]
+- [Curation Protocol](https://github.com/public-assembly/curation-protocol)
 - [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/glossary.md)
 
 ## Communcation
