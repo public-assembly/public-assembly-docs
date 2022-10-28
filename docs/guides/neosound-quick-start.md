@@ -1,9 +1,8 @@
 # Getting Started with Neosound
 
 >  Music brings people together.
-
-// What is neosound 
-// Website overview 
+>  
+[What is neosound](https://www.loom.com/share/65b72e2d32fd4bbaaffbc5c197b85d01)
 
 ---
 
@@ -100,9 +99,14 @@ There’s a curation contract at the heart of Neosound. The underlying curation 
 
 ![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/click%20deploy.png)
 
-  Follow the detailed onboarding instructions and enter the inputs as desired.
 
-![img](https://github.com/public-assembly/public-assembly-docs/blob/main/static/01-A-03-Start.png)
+Follow the steps through the detailed instructions on the deploy site, if you need a detailed walkthrough, click below. 
+
+[Create Your Own Platform](https://www.notion.so/Create-Your-Own-Platform-59c16c396b8d4cb699c3fbc518210517)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d0d683b-fff6-4564-b615-fb9436fed586/Untitled.png)
+
+---
 
 ---
 
