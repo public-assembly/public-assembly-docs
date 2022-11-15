@@ -9,12 +9,6 @@ Web3 wallets are more than just wallets that hold digital monetary value. Curren
 
 Your wallet connects you to new applications and allows you to truly own your data and identity. This guide will walk you through creating your first **Web 3 wallet**.
 
-Buying ETH
-[https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc](https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc)
-
-Goerli Faucet
-[https://www.loom.com/share/4b531d956249439f922ad815f78c6b01](https://www.loom.com/share/4b531d956249439f922ad815f78c6b01)
-
 ## **Prerequisites**
 
 - None!
@@ -101,6 +95,8 @@ Goerli Faucet
 
 ### **Faucet ETH**
 
+[https://www.loom.com/share/4b531d956249439f922ad815f78c6b01](https://www.loom.com/share/4b531d956249439f922ad815f78c6b01)
+
 - What is **Goerli**?
     - **Goerli** is one of **[Ethereum's most popular testnets](https://www.alchemy.com/overviews/what-are-testnets) (faux blockchain)** used by web3 application developers to test apps for free before launching them on **Ethereum Mainnet**.
 
@@ -157,6 +153,7 @@ After your test networks have been enables click where it says Ethereum mainet a
 ---
 
 ### **Buying ETH directly from your wallet provider**
+[https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc](https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc)
     
 Click "Buy" in your MetaMask and it should take you to this pop up.
 
