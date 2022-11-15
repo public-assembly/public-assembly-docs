@@ -112,9 +112,6 @@ Follow the steps through the detailed instructions on the deploy site, if you ne
 
 [Create Your Own Platform](https://www.notion.so/Create-Your-Own-Platform-59c16c396b8d4cb699c3fbc518210517)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d0d683b-fff6-4564-b615-fb9436fed586/Untitled.png)
-
----
 
 ---
 
