@@ -1,7 +1,7 @@
 # Exploring Git Locally
 > **Source Control on Visual Studio Code**
 
-## Introduction 
+## Introduction
 
 ## Prerequisites
 In order to begin this guide, you must have completed the following:
@@ -12,7 +12,7 @@ In order to begin this guide, you must have completed the following:
 
 ## What You'll Do
 
-- Clone a repository 
+- Clone a repository
 - Edit code
 - Push to GitHub
 - Pull from GitHub

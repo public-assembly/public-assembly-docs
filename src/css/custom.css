@@ -1,3 +1,4 @@
+/* stylelint-disable docusaurus/copyright-header */
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -5,26 +6,306 @@
  */
 
 /* You can override the default Infima variables here. */
-:root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-}
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
+@font-face {
+    font-family: 'Inter', sans-serif;
+    src: url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+  }
+  
+  :root {
+    --ifm-color-primary: #000000;
+    --ifm-color-primary-dark: #000000;
+    --ifm-color-primary-darker: #000000;
+    --ifm-color-primary-darkest: #000000;
+    --ifm-code-font-size: 95%;
+    --ifm-navbar-link-hover-color: #000000;
+    --ifm-menu-color: #808080;
+    --ifm-navbar-background-color: rgba(255, 255, 255, 0.95);
+    --ifm-font-family-base: 'Inter';
+    background-color: #141414;
+  }
+  
+  .docusaurus-highlight-code-line {
+    background-color: rgba(0, 0, 0, 0);
+    display: block;
+    margin: 0 calc(-1 * var(--ifm-pre-padding));
+    padding: 0 var(--ifm-pre-padding);
+  }
+  
+  html[data-theme='dark'] .docusaurus-highlight-code-line {
+    background-color: rgba(0, 0, 0, 0);
+  }
+  
+  html[data-theme='dark'] {
+    --ifm-color-primary: #f2f2f2;
+    --ifm-color-primary-dark: #ffff;
+    --ifm-color-primary-darker: #ffff;
+    --ifm-color-primary-darkest: #ffff;
+    --ifm-navbar-link-hover-color: #f2f2f2;
+    --ifm-navbar-background-color: rgba(20, 20, 20, 0.8);
+    --ifm-table-stripe-background: rgba(255, 255, 255, 0.03);
+    --docsearch-hit-active-color: #000000;
+    background-image: linear-gradient(0deg, hsla(0, 0%, 8%, 0.92), hsla(0, 0%, 8%, 0.92)),
+      radial-gradient(47.6% 47.6% at 50% 50%, hsla(0, 0%, 8%, 0) 64.49%, #141414 100%),
+      radial-gradient(
+        75.04% 75.04% at 64.96% 24.36%,
+        #dcc8d0 5.74%,
+        #78c8cf 20.97%,
+        #4d959e 35.65%,
+        #305eb9 53.6%,
+        #311f12 79.69%,
+        #684232 90.62%,
+        #2d1c13 100%
+      );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100vmin 100vmin;
+    --docusaurus-btt-color: #000000;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  .markdown a,
+  .markdown a:hover {
+    font-weight: 500;
+    text-decoration: underline;
+  }
+  
+  .markdown a:hover {
+    opacity: 0.7;
+  }
+  
+  .react-toggle-track {
+    background-color: var(--ifm-color-emphasis-100) !important;
+  }
+  
+  .react-toggle-thumb {
+    background-color: var(--ifm-color-emphasis-200) !important;
+  }
+  
+  .shader-canvas {
+    top: 0;
+    backface-visibility: hidden;
+    perspective: 1000;
+    -webkit-perspective: 1000;
+    height: 550px;
+  }
+  
+  .menu__link {
+    color: #808080;
+    margin-bottom: 15px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+  }
+  
+  .menu__link--active:not(.menu__link--sublist) {
+    color: #f2f2f2;
+    background: none;
+  }
+  
+  .menu__link--active {
+    color: #f2f2f2;
+    background: none;
+  }
+  
+  .menu__link:hover {
+    background: none;
+    color: #f2f2f2;
+  }
+  
+  .navbar__menu__exit {
+    margin-left: 8px;
+    margin-right: 11px;
+  }
+  
+  .navbar-sidebar__item,
+  .navbar-sidebar__brand {
+    background: #141414;
+  }
+  
+  .navbar--fixed-top {
+    background: #141414fa;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1), inset 0px -2px 0px rgba(255, 255, 255, 0.2);
+    height: 80px;
+  }
+  
+  .navbar__logo {
+    width: 30px;
+    height: 30px;
+  }
+  
+  .navbar__toggle {
+    margin-right: 0px;
+  }
+  
+  code {
+    font-family: 'DM Mono';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #f2f2f2;
+    background: rgba(31, 31, 31, 0.6);
+    border-radius: 4px;
+    border: 1px solid #4d4d4d;
+    padding: 2px 5px;
+  }
+  
+  h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 65px;
+    letter-spacing: -0.01em;
+    color: #f2f2f2;
+  }
+  
+  h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 50px;
+    color: #f2f2f2;
+  }
+  
+  h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 35px;
+    color: #f2f2f2;
+  }
+  
+  h4 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: -0.5px;
+    color: #f2f2f2;
+  }
+  
+  h5 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: #b3b3b3;
+  }
+  
+  h6,
+  th {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #f2f2f2;
+  }
+  
+  p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    color: #f2f2f2;
+  }
+  
+  hr {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  code {
+    vertical-align: baseline;
+  }
+  
+  article {
+    margin-top: calc(var(--ifm-leading) * 2);
+    max-width: 700px;
+  }
+  
+  /* Override docusaurus styling for space between paragraphs */
+  .markdown > pre,
+  .markdown > ul,
+  .markdown > p {
+    margin-bottom: calc(var(--ifm-leading) * 1.5);
+  }
+  
+  table {
+    background: rgba(31, 31, 31, 0.6);
+    border: 2px solid rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+    width: fit-content;
+    max-width: 100%;
+  }
+  
+  table tr {
+    width: 100%;
+  }
+  
+  table th {
+    text-align: left;
+    color: #b3b3b3;
+  }
+  
+  table td,
+  table th,
+  table tr {
+    border-width: 0;
+  }
+  
+  .alert--secondary {
+    background: rgba(31, 31, 31, 0.6);
+    border: 1px solid hsla(0, 0%, 100%, 0.05);
+  }
+  
+  .row {
+    margin: 0px;
+  }
+  
+  .row .col {
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  .table-of-contents__left-border {
+    border-left: 2px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .docSidebarContainer_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocPage-styles-module {
+    border-right: 2px solid #4d4d4d !important;
+  }
+  
+  .docSidebarContainer_3Kbt {
+    border-right: 2px solid #4d4d4d !important;
+  }
+  
+  @media only screen and (max-width: 996px) {
+    .navbar--fixed-top {
+      height: 60px;
+    }
+  }
+  
+  @media only screen and (max-width: 1024px) {
+    .shader-canvas {
+      height: 412px;
+    }
+  }
+  
+  @media only screen and (max-width: 800px) {
+    .shader-canvas {
+      height: 388px;
+    }
+  }

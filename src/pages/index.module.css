@@ -1,23 +1,188 @@
+/* stylelint-disable docusaurus/copyright-header */
+
 /**
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
 
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
+ @import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@500&display=swap');
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+ .layout {
+   --ifm-color-primary: black;
+   --ifm-hero-text-color: white;
+   background: #141414fa;
+   width: 100%;
+   padding-left: 30px;
+   padding-right: 30px;
+   margin-left: auto;
+   margin-right: auto;
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   padding-bottom: 50px;
+   -webkit-transform-style: preserve-3d;
+   transform-style: preserve-3d;
+   margin-top: -10px;
+ }
+ 
+ .layoutFlexBox {
+   display: inline-block;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   max-width: 1440px;
+ }
+ 
+ .gettingStarted {
+   font-weight: 500;
+   font-size: 35px;
+   line-height: 50px;
+   color: #f2f2f2;
+   text-align: left;
+   margin-bottom: 0;
+ }
+ 
+ .gettingStartedFlexBox {
+   display: flex;
+   flex-direction: row;
+   padding-top: 50px;
+   align-items: center;
+   padding-bottom: 40px;
+ }
+ 
+ .viewAll {
+   font-weight: 500;
+   font-size: 12px;
+   line-height: 20px;
+   letter-spacing: 0.05em;
+   text-transform: uppercase;
+   color: #f2f2f2;
+   padding: 10px 15px 10px 15px;
+   background: none;
+   border: none;
+   text-align: center;
+ }
+ 
+ .viewAllLink {
+   margin-left: auto;
+   margin-right: 5px;
+ }
+ 
+ .viewAllLink:hover {
+   background: #4d4d4d;
+   border-radius: 4px;
+ }
+ 
+ .logoText {
+   position: absolute;
+   width: 311px;
+   height: 104px;
+   left: 0;
+   right: 0;
+   margin-left: auto;
+   margin-right: auto;
+   top: 293px;
+   color: #fbf6f4;
+ }
+ 
+ .headerSubtitle {
+   position: absolute;
+   width: 250px;
+   height: 20px;
+   top: 439px;
+   left: 0;
+   right: 0;
+   margin-left: auto;
+   margin-right: auto;
+   font-family: 'DM Mono', monospace;
+   font-style: normal;
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 100%;
+   text-transform: uppercase;
+   text-align: center;
+   color: #ffffff;
+ }
+ 
+ /* Tablet */
+ @media only screen and (max-width: 1024px) {
+   .layout {
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-bottom: 39px;
+   }
+ 
+   .gettingStarted {
+     font-size: 20px;
+     line-height: 30px;
+   }
+ 
+   .viewAll {
+     font-size: 12px;
+     line-height: 20px;
+     padding: 10px 15px 10px 15px;
+   }
+ 
+   .viewAllLink {
+     margin-right: 5px;
+   }
+ 
+   .viewAllLink:hover {
+     border-radius: 4px;
+   }
+ 
+   .logoText {
+     width: 198px;
+     height: 66px;
+     top: 217px;
+   }
+ 
+   .headerSubtitle {
+     height: 20px;
+     top: 328px;
+     line-height: 100%;
+     font-size: 20px;
+   }
+ }
+ 
+ @media only screen and (max-width: 800px) {
+   .layout {
+     padding-left: 20px;
+     padding-right: 20px;
+     padding-bottom: 30px;
+   }
+ 
+   .gettingStarted {
+     font-size: 20px;
+     line-height: 30px;
+     margin-left: 0px;
+     padding: 0px;
+   }
+ 
+   .viewAll {
+     font-size: 12px;
+     line-height: 20px;
+     padding: 10px 15px 10px 15px;
+   }
+ 
+   .viewAllLink {
+     margin-right: 0px;
+   }
+ 
+   .viewAllLink:hover {
+     border-radius: 4px;
+   }
+ 
+   .logoText {
+     width: 198px;
+     height: 66px;
+     top: 158px;
+   }
+ 
+   .headerSubtitle {
+     height: 20px;
+     top: 269px;
+     font-size: 20px;
+   }
+ }
