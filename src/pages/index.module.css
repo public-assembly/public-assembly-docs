@@ -74,6 +74,28 @@
    border-radius: 4px;
  }
  
+ .tools {
+   font-weight: 500;
+   font-size: 35px;
+   line-height: 50px;
+   color: #ffffff;
+   padding-top: 50px;
+   margin-right: auto;
+   padding-bottom: 40px;
+   margin-bottom: 0;
+ }
+ 
+ .projects {
+   font-weight: 500;
+   font-size: 35px;
+   line-height: 40px;
+   color: #ffffff;
+   padding-top: 50px;
+   margin-right: auto;
+   padding-bottom: 40px;
+   margin-bottom: 0;
+ }
+ 
  .logoText {
    position: absolute;
    width: 311px;
@@ -118,6 +140,11 @@
      line-height: 30px;
    }
  
+   .gettingStartedFlexBox {
+     padding-top: 40px;
+     padding-bottom: 30px;
+   }
+ 
    .viewAll {
      font-size: 12px;
      line-height: 20px;
@@ -130,6 +157,20 @@
  
    .viewAllLink:hover {
      border-radius: 4px;
+   }
+ 
+   .tools {
+     font-size: 20px;
+     padding-top: 40px;
+     line-height: 30px;
+     padding-bottom: 30px;
+   }
+ 
+   .projects {
+     font-size: 20px;
+     padding-top: 40px;
+     line-height: 30px;
+     padding-bottom: 30px;
    }
  
    .logoText {
@@ -160,6 +201,13 @@
      padding: 0px;
    }
  
+   .gettingStartedFlexBox {
+     padding-top: 30px;
+     padding-bottom: 20px;
+     padding-left: 0px;
+     padding-right: 0px;
+   }
+ 
    .viewAll {
      font-size: 12px;
      line-height: 20px;
@@ -172,6 +220,20 @@
  
    .viewAllLink:hover {
      border-radius: 4px;
+   }
+ 
+   .tools {
+     font-size: 20px;
+     line-height: 30px;
+     padding-top: 30px;
+     padding-bottom: 20px;
+   }
+ 
+   .projects {
+     font-size: 20px;
+     line-height: 26px;
+     padding-top: 30px;
+     padding-bottom: 20px;
    }
  
    .logoText {
