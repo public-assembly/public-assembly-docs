@@ -1,21 +1,19 @@
 # Wallet Setup
 
-Set Up
 [https://www.loom.com/share/dbf7ab2ede66401396d6fe30f07154af](https://www.loom.com/share/dbf7ab2ede66401396d6fe30f07154af)
-
-Buying ETH
-[https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc](https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc)
-
-Goerli Faucet
-[https://www.loom.com/share/4b531d956249439f922ad815f78c6b01](https://www.loom.com/share/4b531d956249439f922ad815f78c6b01)
-
 ## **Introduction**
 
 Public blockchains like **Ethereum** are the next evolution of Internet. To access the new world you need the right tools.
 
 Web3 wallets are more than just wallets that hold digital monetary value. Currency binds communities together and with your Web 3 wallet you can  crowdsource projects, publish art, writings and other media, or invest in other people’s creations.
 
-Your wallet connects you to new applications and allows you to truly own your data and identity. This guide will walk you through creating your first **Web3 wallet**.
+Your wallet connects you to new applications and allows you to truly own your data and identity. This guide will walk you through creating your first **Web 3 wallet**.
+
+Buying ETH
+[https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc](https://www.loom.com/share/c9cb27fe541f46359bf2bc45680a95fc)
+
+Goerli Faucet
+[https://www.loom.com/share/4b531d956249439f922ad815f78c6b01](https://www.loom.com/share/4b531d956249439f922ad815f78c6b01)
 
 ## **Prerequisites**
 
