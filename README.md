@@ -35,7 +35,7 @@ Thanks for giving a little extra love to our docs! Below are some basic guidelin
 ### A standard flow to set up a fork
 Set up your fork with the following terminal commands, or an alteration of them to suit your environment:
 
-```cd zora-docs
+```cd public-assembly-docs
 git remote add upstream https://github.com/public-assembly/public-assembly-docs.git
 git fetch upstream
 git pull --rebase upstream main
