@@ -8,7 +8,7 @@
 const config = {
   title: 'Public Assembly Docs',
   tagline: 'Create Whats Missing',
-  url: 'https://public---assembly.com/docs',
+  url: 'https://public---assembly.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
