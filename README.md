@@ -14,17 +14,6 @@
 - [Curation Protocol](https://github.com/public-assembly/curation-protocol)
 - [Glossary](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/glossary.md)
 
-## Guides 
-
-- [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/assemble-package.md)
-- [Wallet Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/wallet-setup.md)
-- [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/getting-started-with-github.md)
-- [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/vercel-setup.md)
-- [Visual Studio Code Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/visual-studio-code-setup.md)
-- [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git.md) 
-- [Exploring Git (in Terminal)](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git-locally.md) 
-- [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/installing-node.md)
-
 ## Communcation
 
 - [Twitter](https://twitter.com/pblcasmbly)
@@ -90,3 +79,16 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+---
+
+## Guides 
+
+- [Using the Assemble Package Template](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/assemble-package.md)
+- [Wallet Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/wallet-setup.md)
+- [Getting Started with GitHub](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/getting-started-with-github.md)
+- [Vercel Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/vercel-setup.md)
+- [Visual Studio Code Setup](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/visual-studio-code-setup.md)
+- [Exploring Git](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git.md) 
+- [Exploring Git (in Terminal)](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/exploring-git-locally.md) 
+- [Installing Node JS](https://github.com/public-assembly/public-assembly-docs/blob/main/docs/guides/installing-node.md)
