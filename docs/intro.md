@@ -1,4 +1,4 @@
-# ****Public Assembly Docs****
+# Public Assembly Docs
 
 > [Public Assembly](http://public---assembly.com) is an online collective building the missing pieces of the internet
 
@@ -11,4 +11,4 @@
     - Restricted curation access gated by a set ERC721 collection
     
 
-**[Get started →](https://www.notion.so/Neosound-Quickstart-c7f1678052c54bd3bd78700997120727)**
+[Get started →](https://www.notion.so/Neosound-Quickstart-c7f1678052c54bd3bd78700997120727)
