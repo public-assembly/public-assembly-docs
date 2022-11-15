@@ -117,10 +117,3 @@ Follow the steps through the detailed instructions on the deploy site, if you ne
 Further Reading
 
 ---
- 
- 
-
-
-
-
-
