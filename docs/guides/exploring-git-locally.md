@@ -1,5 +1,5 @@
 # Exploring Git Locally
-> **Source Control on Visual Studio Code [WIP]**
+> **Source Control on Visual Studio Code**
 
 ## Introduction 
 
