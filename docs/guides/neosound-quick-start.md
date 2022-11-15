@@ -18,6 +18,12 @@ There are so many options for independent artists to foster their audience or co
 
 ---
 
+## How to make ZORA Editions
+
+[https://www.loom.com/share/88777f45acc24d43bfc83739675e7ce7](https://www.loom.com/share/88777f45acc24d43bfc83739675e7ce7)
+
+---
+
 ## What is the cost to use Neosound?
 
 Neosound provides a free online listening experience. The music on the site can be collected for a fee, and it also provides the ability to deploy curation contracts to power your own custom site from the factory page.
@@ -74,6 +80,8 @@ Another cool thing about this build is that the tracks are also tagged by the ET
 ---
 
 ## Using Neosound to Deploy:
+
+[https://www.loom.com/share/216f38f55729493bb65f80bfdc8b3910](https://www.loom.com/share/216f38f55729493bb65f80bfdc8b3910)
 
 There’s a curation contract at the heart of Neosound. The underlying curation protocol reacts in tandem with the simple design of the site. There are methods whereby every song on the site is a `Listing`, and each `Listing` is actually an ERC-721 of its own. These Listings are minted and then the tokenID’s of the Listing are soulbound to the song curator’s address.
 
