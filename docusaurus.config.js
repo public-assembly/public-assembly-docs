@@ -8,7 +8,7 @@
 const config = {
   title: 'Public Assembly Docs',
   tagline: 'Create Whats Missing',
-  url: 'https://public---assembly.com/docs',
+  url: 'https://public---assembly.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -31,13 +31,13 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/public-assembly/public-assembly-docs',
+          editUrl: 'https://github.com/public-assembly/public-assembly-docs/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/public-assembly/public-assembly-docs',
+          editUrl: 'https://github.com/public-assembly/public-assembly-docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -56,7 +56,7 @@ const config = {
       navbar: {
         title: 'Public Assembly',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo',
           src: 'logo.png',
         },
 
@@ -67,12 +67,12 @@ const config = {
             position: 'left',
             label: 'Intro',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          ///{to: '/blog', label: 'Blog', position: 'left'},
+          {
+          href: 'https://github.com/public-assembly/',
+          label: 'GitHub',
+          position: 'right',
+          },
         ],
       },
       // footer: {

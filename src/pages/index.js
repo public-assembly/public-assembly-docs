@@ -15,7 +15,7 @@ export default function Home() {
       <main className={styles.layout}>
         <div className={styles.layoutFlexBox}>
           <div className={styles.gettingStartedFlexBox}>
-            <p className={styles.gettingStarted}>Getting Started</p>
+            <p className={styles.gettingStarted}></p>
           </div>
           <GettingStartedCards />
         </div>
