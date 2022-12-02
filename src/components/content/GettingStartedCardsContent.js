@@ -8,13 +8,7 @@ export const gettingStartedContent = [
   {
     docNumber: '02',
     docTitle: 'Curation Protocol →',
-    docSubtopic: 'Create',
+    docSubtopic: 'Explore onchain curation',
     docLink: 'docs/guides/curation-protocol-quickstart',
-  },
-  {
-    docNumber: '03',
-    docTitle: 'Deploy Platform →',
-    docSubtopic: 'Contract Factory',
-    docLink: '/docs/guides/deploy-platform',
   },
 ]
