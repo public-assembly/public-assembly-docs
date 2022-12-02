@@ -4,7 +4,7 @@ Neosound is Public Assembly's first integration with the curation protocol. Our 
 
 ## Begin
 
-Navigate to our [deploy platform](deploy.neosound.xyz) to begin your journey into onchain curation. The website will walk you through the necessary steps to deploy your own curation contract on the Göerli testnet. You'll need ether on Göerli to successfully deploy your contract, with an active Twitter account, you can obtain some [here](https://faucet.paradigm.xyz/) thanks to the folks at Paradigm.
+Navigate to our [deploy platform](https://deploy.neosound.xyz/) to begin your journey into onchain curation. The website will walk you through the necessary steps to deploy your own curation contract on the Göerli testnet. You'll need ether on Göerli to successfully deploy your contract, with an active Twitter account, you can obtain some [here](https://faucet.paradigm.xyz/) thanks to the folks at Paradigm.
 
 ## Title
 
@@ -16,7 +16,7 @@ Your contract symbol is used solely for distinguishing your contract from someon
 
 ## Curation Pass
 
-Your curation pass is an integral piece to your curation contract. It is the NFT that enables those who hold it to add and remove elements from your curation contract. It can exist as any NFT contract, and is not specific to a platform or protocol. If you don't currently have an NFT on Göerli that you wish to use for this, you can go ahead and create one [here](https://testnet.create.zora.co/). 
+Your curation pass is an integral piece to your curation contract. It is the NFT that enables those who hold it to add and remove elements from your curation contract. It can exist as any NFT contract, and is not specific to a platform or protocol. If you don't currently have an NFT on Göerli that you wish to use for this, you can go ahead and create one [here](https://testnet.create.zora.co/).
 
 If you happen to have used the Paradigm faucet from above, you'll actually already have a 'MultiFaucet Test NFT' if your wallet. You can grab that NFT address by viewing the contents of your wallet at testnets.opensea.io/[your-wallet-address], clicking on a neon test NFT, and navigating to that token's details. Your curation pass can be changed at any time after deploying your contract.
 
@@ -24,7 +24,7 @@ Lastly, for reference, here is a [link](https://create.zora.co/collections/0xe27
 
 ## Media
 
-The deploy platform allows you to choose the first piece of media you wish to add to your curation contract. Again, this can be any NFT on Göerli. However, if you do choose to fork Neosound, the current rendering mechanism only supports editions from Zora. 
+The deploy platform allows you to choose the first piece of media you wish to add to your curation contract. Again, this can be any NFT on Göerli. However, if you do choose to fork Neosound, the current rendering mechanism only supports editions from Zora.
 
 Also, your contract need not be deployed with any media at all so feel free to skip this step. You can continually add and remove listings from your curation contract via Etherscan. We're in the midst of developing a general purpose UI to support these interactions for your curation contract.
 
